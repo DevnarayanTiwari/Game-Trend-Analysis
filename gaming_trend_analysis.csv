@@ -1,0 +1,1001 @@
+PlayerID,Region,Platform,Genre,AgeGroup,MonthlyRevenue,PlaytimeHours,StreamPlatform,StreamViewership,GamePopularityScore,SubscriptionType,Year
+P1,South Korea,Tablet,Simulation,13-18,67.19,23.2,DLive,15,13,Free,2021
+P2,South Korea,Epic Games Store,Cooking,26-35,146.45,99.5,Nimo TV,3,88,Free,2021
+P3,Canada,Steam,Puzzle,26-35,13.42,98.4,Twitch,185,33,Trial,2024
+P4,Australia,Epic Games Store,Horror,46+,122.5,62.4,Facebook Gaming,719,69,In-App Purchases,2020
+P5,Russia,Tablet,Idle,19-25,100.98,35.2,Nimo TV,99,57,Premium,2020
+P6,Mexico,Steam,Simulation,19-25,85.39,115.5,Twitch,465,36,In-App Purchases,2024
+P7,USA,Xbox,Horror,26-35,10.07,38.9,Caffeine,900,100,Premium,2023
+P8,Nigeria,Nintendo Switch,Fighting,46+,84.94,26.8,Nimo TV,293,86,Trial,2022
+P9,Indonesia,Tablet,MOBA,26-35,139.05,117.1,Caffeine,403,90,In-App Purchases,2023
+P10,South Korea,Smartphone,Sports,46+,135.27,93.5,YouTube Gaming,26,29,Trial,2024
+P11,Europe,Nintendo Switch,Puzzle,26-35,140.49,97.1,Facebook Gaming,926,64,Free,2020
+P12,India,Smartphone,Horror,46+,14.55,104.6,Facebook Gaming,226,13,Trial,2023
+P13,Germany,PlayStation,Music,36-45,88.84,118.2,Mixer,481,56,In-App Purchases,2019
+P14,UK,Epic Games Store,RPG,19-25,137.73,84.2,DLive,830,79,Trial,2024
+P15,China,Xbox,Strategy,13-18,35.43,84.8,Vimeo,731,67,Premium,2021
+P16,Canada,PC,Educational,36-45,41.87,55.8,Vimeo,313,10,Trial,2024
+P17,China,VR,Horror,26-35,40.49,48.5,Mixer,268,82,Trial,2020
+P18,Egypt,Laptop,Adventure,36-45,91.47,63.0,Caffeine,857,92,In-App Purchases,2024
+P19,UK,VR,FPS,13-18,127.46,98.0,Facebook Gaming,462,80,Trial,2020
+P20,Nigeria,VR,Cooking,36-45,65.0,73.5,Twitch,898,54,Trial,2022
+P21,France,Nintendo Switch,Sports,19-25,135.12,29.0,YouTube Gaming,824,65,Free,2019
+P22,China,Epic Games Store,MOBA,19-25,27.59,116.0,Vimeo,584,32,Premium,2019
+P23,Mexico,Xbox,Sports,13-18,16.0,76.7,Trovo,7,24,Premium,2022
+P24,South Africa,Mobile,Educational,26-35,65.76,22.4,Mixer,468,20,Free,2021
+P25,Indonesia,PC,Sports,36-45,53.91,66.3,DLive,354,46,Free,2019
+P26,Indonesia,Laptop,Adventure,13-18,106.06,39.4,YouTube Gaming,721,78,Trial,2022
+P27,Germany,PC,Educational,19-25,6.17,15.6,DLive,563,60,Premium,2022
+P28,China,PlayStation,Cooking,46+,57.57,63.6,Trovo,533,70,In-App Purchases,2021
+P29,USA,Console,MOBA,19-25,68.89,18.0,Mixer,648,93,In-App Purchases,2019
+P30,India,Xbox,Adventure,26-35,21.56,107.6,Twitch,253,46,Trial,2022
+P31,Mexico,Tablet,Simulation,19-25,75.55,34.4,YouTube Gaming,932,33,Premium,2022
+P32,Brazil,Mobile,RPG,46+,108.99,24.4,Facebook Gaming,220,34,Premium,2022
+P33,Egypt,Epic Games Store,Battle Royale,19-25,122.7,51.5,YouTube Gaming,561,74,Trial,2023
+P34,Indonesia,Epic Games Store,RPG,26-35,82.1,111.1,Nimo TV,425,80,Premium,2020
+P35,France,Xbox,Puzzle,19-25,110.65,85.9,Trovo,953,69,Trial,2019
+P36,Australia,Smartphone,RPG,36-45,112.03,60.3,Caffeine,378,87,Premium,2019
+P37,Japan,Steam,MOBA,26-35,68.09,18.2,Caffeine,81,51,Premium,2022
+P38,Europe,PC,Music,13-18,52.89,17.9,Caffeine,334,31,In-App Purchases,2021
+P39,Russia,Xbox,MOBA,36-45,87.88,96.6,Facebook Gaming,224,17,In-App Purchases,2019
+P40,India,Mobile,Idle,36-45,40.42,91.1,Nimo TV,60,46,Premium,2019
+P41,Canada,VR,Strategy,36-45,33.92,50.0,Mixer,77,74,Free,2021
+P42,France,Nintendo Switch,Sports,13-18,66.9,90.3,Caffeine,151,92,Premium,2024
+P43,UK,Epic Games Store,Idle,36-45,120.11,54.6,DLive,217,11,Trial,2022
+P44,Europe,Laptop,RPG,36-45,69.36,66.8,Mixer,258,21,Premium,2022
+P45,India,Laptop,Battle Royale,19-25,117.66,117.9,Facebook Gaming,203,71,Free,2023
+P46,Japan,PlayStation,Sports,13-18,73.31,99.7,Caffeine,368,25,Trial,2020
+P47,India,Tablet,Educational,46+,41.98,24.3,Trovo,142,42,In-App Purchases,2024
+P48,Japan,PlayStation,Horror,36-45,112.89,12.6,DLive,231,20,In-App Purchases,2020
+P49,Europe,Xbox,Music,46+,66.18,59.9,Vimeo,498,44,In-App Purchases,2022
+P50,Canada,Tablet,RPG,36-45,24.13,71.1,Mixer,125,65,Premium,2020
+P51,Mexico,Epic Games Store,Strategy,26-35,5.4,106.0,Nimo TV,684,22,Free,2022
+P52,Mexico,Smartphone,Battle Royale,19-25,100.52,12.4,Nimo TV,660,80,Free,2022
+P53,Germany,Smartphone,Cooking,13-18,10.95,70.5,Caffeine,917,84,Free,2019
+P54,Indonesia,Steam,Puzzle,36-45,149.29,107.0,Twitch,372,61,Trial,2019
+P55,Mexico,Tablet,Simulation,36-45,138.94,77.7,Vimeo,263,100,Premium,2022
+P56,Brazil,Nintendo Switch,RPG,36-45,109.46,32.1,Vimeo,436,18,Premium,2024
+P57,Canada,Laptop,Fighting,13-18,50.84,111.3,Caffeine,167,32,Trial,2020
+P58,Germany,PC,Strategy,26-35,124.49,52.7,Trovo,514,72,Free,2020
+P59,Germany,Xbox,Adventure,19-25,142.62,51.0,Mixer,328,97,Trial,2022
+P60,India,PC,RPG,26-35,15.81,58.6,DLive,936,54,In-App Purchases,2019
+P61,France,Mobile,MOBA,19-25,5.35,37.2,Twitch,802,63,Trial,2023
+P62,Indonesia,PlayStation,Strategy,26-35,51.98,110.6,Nimo TV,306,75,Premium,2024
+P63,Mexico,Epic Games Store,Cooking,36-45,63.48,89.6,Facebook Gaming,73,75,Trial,2023
+P64,Europe,Steam,Cooking,26-35,121.79,23.9,Trovo,480,93,In-App Purchases,2019
+P65,Egypt,Nintendo Switch,Strategy,26-35,131.7,16.5,Twitch,39,82,In-App Purchases,2022
+P66,Australia,Laptop,Fighting,19-25,101.17,52.0,Caffeine,433,40,Premium,2024
+P67,Argentina,Tablet,Educational,19-25,134.93,74.2,YouTube Gaming,282,77,In-App Purchases,2022
+P68,Australia,Steam,Battle Royale,26-35,134.4,44.1,Caffeine,207,78,In-App Purchases,2022
+P69,Brazil,PlayStation,Music,26-35,85.53,86.2,Facebook Gaming,566,19,Trial,2022
+P70,South Korea,Console,Horror,36-45,123.38,84.2,Caffeine,858,77,In-App Purchases,2020
+P71,Canada,Xbox,Cooking,46+,145.48,57.5,Nimo TV,921,83,Trial,2020
+P72,Brazil,Xbox,Puzzle,46+,134.71,24.4,YouTube Gaming,328,93,In-App Purchases,2022
+P73,Brazil,Xbox,Fighting,13-18,149.76,14.9,Vimeo,718,2,In-App Purchases,2022
+P74,Nigeria,Laptop,Simulation,19-25,68.79,14.9,Twitch,750,1,Premium,2022
+P75,China,Nintendo Switch,Educational,36-45,45.99,85.5,Mixer,320,47,Premium,2023
+P76,Japan,Nintendo Switch,RPG,36-45,57.07,80.3,Nimo TV,858,91,Free,2021
+P77,South Korea,Epic Games Store,Music,36-45,120.61,42.9,Trovo,208,47,Free,2020
+P78,Europe,Console,Strategy,19-25,15.89,35.8,Caffeine,546,54,In-App Purchases,2020
+P79,China,VR,RPG,19-25,78.06,27.7,Twitch,213,44,Free,2021
+P80,South Korea,PC,Educational,19-25,73.24,64.2,Vimeo,712,57,In-App Purchases,2019
+P81,Japan,PlayStation,Music,19-25,85.55,31.9,Nimo TV,458,2,Trial,2019
+P82,France,Xbox,Cooking,36-45,128.17,112.1,YouTube Gaming,595,46,In-App Purchases,2023
+P83,Italy,Tablet,Fighting,46+,45.86,36.5,Caffeine,867,24,Trial,2023
+P84,China,Steam,Educational,19-25,119.79,73.6,Facebook Gaming,994,51,In-App Purchases,2019
+P85,Brazil,Laptop,Battle Royale,46+,65.14,37.3,Twitch,978,55,In-App Purchases,2019
+P86,Mexico,VR,FPS,19-25,77.14,40.5,Mixer,948,30,In-App Purchases,2021
+P87,Argentina,PlayStation,Fighting,36-45,46.19,32.4,Twitch,615,58,Trial,2020
+P88,Germany,VR,Strategy,36-45,78.5,52.6,Twitch,793,18,Trial,2021
+P89,Japan,PlayStation,Battle Royale,26-35,44.99,117.1,Vimeo,616,17,Free,2021
+P90,India,PlayStation,Educational,19-25,5.77,105.5,Mixer,383,63,Trial,2024
+P91,Nigeria,Tablet,Fighting,46+,49.4,16.5,DLive,991,34,Premium,2022
+P92,Russia,VR,RPG,36-45,104.01,85.7,Mixer,710,25,Premium,2019
+P93,Argentina,VR,Fighting,19-25,67.34,22.1,Twitch,234,79,Premium,2022
+P94,UK,Smartphone,Simulation,13-18,110.87,28.6,Trovo,969,49,Trial,2022
+P95,USA,Laptop,Sports,46+,74.37,40.9,Twitch,954,69,Premium,2023
+P96,France,PC,Battle Royale,46+,53.29,97.8,Mixer,127,15,Free,2021
+P97,Egypt,Smartphone,FPS,36-45,119.51,41.1,DLive,128,88,Premium,2021
+P98,Italy,Steam,Music,26-35,115.14,61.7,Vimeo,419,100,Free,2020
+P99,France,PC,Sports,36-45,26.2,111.7,DLive,829,70,Trial,2021
+P100,Japan,Xbox,RPG,46+,34.18,63.6,Caffeine,298,82,Free,2023
+P101,Canada,Epic Games Store,Fighting,26-35,114.68,22.7,YouTube Gaming,18,11,Trial,2019
+P102,UK,Smartphone,Music,36-45,22.36,95.5,Vimeo,712,24,Free,2022
+P103,Japan,VR,Strategy,26-35,142.85,113.1,Facebook Gaming,91,69,In-App Purchases,2019
+P104,Russia,Mobile,MOBA,19-25,12.91,96.6,Twitch,939,69,Trial,2021
+P105,Mexico,Tablet,Simulation,13-18,44.88,90.5,Facebook Gaming,945,95,Premium,2023
+P106,China,Xbox,Cooking,26-35,23.17,76.4,Nimo TV,61,77,In-App Purchases,2019
+P107,South Korea,Mobile,Simulation,36-45,111.74,26.1,Trovo,454,12,Premium,2019
+P108,Indonesia,PlayStation,Sports,36-45,71.01,47.8,Facebook Gaming,579,77,Trial,2021
+P109,Russia,Xbox,FPS,19-25,28.44,61.1,Twitch,821,46,In-App Purchases,2020
+P110,USA,Console,MOBA,19-25,98.23,84.5,Trovo,493,21,Premium,2021
+P111,Nigeria,VR,RPG,46+,19.44,11.8,YouTube Gaming,360,54,Premium,2020
+P112,Brazil,PlayStation,Puzzle,36-45,143.84,46.5,Twitch,72,23,Premium,2023
+P113,Brazil,Steam,Sports,19-25,93.99,116.7,Nimo TV,310,11,Free,2023
+P114,Mexico,Tablet,Simulation,46+,107.82,71.5,DLive,185,32,In-App Purchases,2021
+P115,France,Epic Games Store,MOBA,26-35,7.97,45.6,Nimo TV,122,52,Free,2021
+P116,Italy,Smartphone,Sports,13-18,129.83,72.5,YouTube Gaming,137,19,Trial,2022
+P117,Egypt,Epic Games Store,Adventure,13-18,22.97,43.8,YouTube Gaming,747,7,Premium,2021
+P118,France,Steam,FPS,13-18,109.22,36.5,Nimo TV,153,3,In-App Purchases,2020
+P119,Nigeria,Console,Strategy,26-35,64.91,94.5,DLive,16,40,Trial,2022
+P120,India,Steam,FPS,19-25,128.82,83.8,Vimeo,943,9,Premium,2019
+P121,Italy,Console,FPS,46+,41.48,70.7,Mixer,691,93,Free,2019
+P122,Egypt,Nintendo Switch,Puzzle,36-45,12.69,54.1,YouTube Gaming,803,38,Free,2022
+P123,Egypt,Epic Games Store,Battle Royale,46+,130.32,66.1,Nimo TV,387,67,Free,2024
+P124,Canada,PlayStation,RPG,46+,46.86,60.8,Mixer,233,1,Trial,2023
+P125,Germany,Laptop,Strategy,19-25,60.77,69.4,DLive,915,73,Premium,2022
+P126,India,Smartphone,Fighting,19-25,115.36,84.5,DLive,549,44,Premium,2023
+P127,India,VR,Fighting,26-35,54.99,43.6,Nimo TV,119,48,Premium,2019
+P128,Nigeria,Epic Games Store,MOBA,46+,23.0,15.4,YouTube Gaming,145,85,Free,2019
+P129,Europe,Console,RPG,19-25,103.91,102.6,Mixer,593,91,Free,2020
+P130,France,Epic Games Store,Simulation,19-25,134.25,34.2,Trovo,658,73,Premium,2023
+P131,Egypt,Nintendo Switch,Battle Royale,19-25,127.26,62.3,Twitch,605,29,In-App Purchases,2020
+P132,Australia,Mobile,Cooking,46+,89.45,82.6,Trovo,506,48,Premium,2021
+P133,France,Epic Games Store,RPG,26-35,115.99,72.4,DLive,87,34,Premium,2021
+P134,Nigeria,Smartphone,Cooking,46+,129.97,70.6,Trovo,580,6,Premium,2022
+P135,India,PC,RPG,13-18,43.84,75.0,YouTube Gaming,114,64,In-App Purchases,2024
+P136,Mexico,VR,FPS,13-18,63.23,73.2,Trovo,710,40,Free,2024
+P137,Europe,Console,MOBA,19-25,146.52,106.1,YouTube Gaming,79,30,In-App Purchases,2022
+P138,Indonesia,PC,Music,46+,74.62,103.8,Facebook Gaming,555,100,Free,2019
+P139,India,Xbox,Music,36-45,37.74,64.3,Twitch,527,4,In-App Purchases,2024
+P140,Europe,Mobile,Puzzle,19-25,113.63,70.4,Nimo TV,150,70,In-App Purchases,2020
+P141,Egypt,Nintendo Switch,Sports,13-18,125.5,59.3,YouTube Gaming,708,100,Trial,2019
+P142,USA,Nintendo Switch,Cooking,26-35,62.16,45.7,Mixer,800,62,In-App Purchases,2024
+P143,UK,Tablet,Adventure,46+,138.59,107.4,DLive,556,8,Premium,2022
+P144,Egypt,Nintendo Switch,Sports,13-18,9.78,55.8,Caffeine,286,76,Premium,2019
+P145,South Korea,Mobile,FPS,19-25,74.72,42.8,Vimeo,430,88,Free,2020
+P146,UK,Mobile,Cooking,13-18,53.31,58.1,Caffeine,97,15,Trial,2021
+P147,Argentina,Console,Music,13-18,48.64,54.7,Facebook Gaming,906,24,Free,2021
+P148,Australia,Epic Games Store,Simulation,19-25,117.59,41.8,Vimeo,792,37,Free,2024
+P149,China,Mobile,Simulation,26-35,62.48,35.2,Vimeo,877,14,Trial,2019
+P150,Italy,PlayStation,Horror,36-45,123.84,63.1,YouTube Gaming,623,69,In-App Purchases,2019
+P151,South Africa,Xbox,Simulation,19-25,29.08,40.8,DLive,402,71,Trial,2020
+P152,USA,Tablet,Adventure,19-25,89.73,82.0,Trovo,94,93,Trial,2022
+P153,Nigeria,Nintendo Switch,FPS,13-18,14.56,19.9,Trovo,644,56,Trial,2020
+P154,Nigeria,VR,Educational,19-25,36.04,71.7,Mixer,659,54,Premium,2021
+P155,Canada,Nintendo Switch,Music,13-18,121.47,109.5,Caffeine,33,98,Free,2019
+P156,Brazil,Console,Educational,46+,65.48,80.5,Vimeo,429,24,In-App Purchases,2023
+P157,Argentina,Console,Cooking,46+,110.33,22.7,Facebook Gaming,247,46,Premium,2024
+P158,South Korea,Mobile,Battle Royale,13-18,131.17,65.3,Nimo TV,385,21,Trial,2020
+P159,South Africa,Steam,Strategy,36-45,41.73,75.1,YouTube Gaming,715,58,Premium,2021
+P160,South Korea,Xbox,Simulation,19-25,48.27,109.6,Facebook Gaming,834,21,Trial,2020
+P161,Canada,PlayStation,Puzzle,36-45,52.03,36.6,Trovo,991,75,Trial,2020
+P162,UK,Xbox,Puzzle,46+,131.64,54.5,Caffeine,76,56,Premium,2021
+P163,Brazil,Nintendo Switch,Music,26-35,82.09,30.7,YouTube Gaming,963,84,Trial,2022
+P164,Germany,Tablet,RPG,46+,138.28,79.9,DLive,525,67,Trial,2023
+P165,USA,Steam,Music,36-45,35.47,83.8,Trovo,316,79,Premium,2022
+P166,Indonesia,Steam,Battle Royale,19-25,32.94,43.9,Trovo,786,26,Trial,2023
+P167,Mexico,VR,Educational,36-45,48.29,52.1,Nimo TV,739,25,Free,2020
+P168,Nigeria,Laptop,FPS,36-45,67.25,49.4,Mixer,863,90,Premium,2022
+P169,Egypt,Smartphone,Fighting,19-25,80.05,80.8,Facebook Gaming,206,89,Trial,2019
+P170,China,PC,Fighting,26-35,40.31,35.0,Vimeo,655,21,Trial,2020
+P171,Germany,Laptop,RPG,19-25,96.73,68.9,Caffeine,739,18,Free,2023
+P172,Egypt,Smartphone,Educational,19-25,15.66,66.5,YouTube Gaming,268,1,Trial,2024
+P173,Russia,Epic Games Store,Puzzle,46+,80.01,14.6,Caffeine,879,45,In-App Purchases,2019
+P174,Brazil,Mobile,Puzzle,19-25,63.62,31.0,Facebook Gaming,140,69,In-App Purchases,2021
+P175,China,VR,Strategy,36-45,61.93,15.2,Facebook Gaming,674,97,Trial,2020
+P176,South Africa,VR,FPS,13-18,15.51,62.7,Mixer,786,80,In-App Purchases,2024
+P177,UK,Console,Strategy,13-18,120.73,114.5,Nimo TV,498,24,Premium,2023
+P178,Australia,PC,Idle,46+,149.06,52.6,Trovo,336,3,Trial,2023
+P179,Brazil,VR,MOBA,19-25,73.6,93.2,Trovo,65,58,In-App Purchases,2023
+P180,USA,Laptop,Horror,13-18,105.32,42.5,Trovo,644,48,Trial,2020
+P181,Italy,Xbox,Sports,26-35,14.75,44.7,YouTube Gaming,949,36,Premium,2022
+P182,Argentina,Tablet,FPS,19-25,127.81,109.6,YouTube Gaming,294,59,Trial,2024
+P183,Italy,Console,Strategy,19-25,139.44,59.6,Nimo TV,110,78,Trial,2021
+P184,China,Steam,Puzzle,13-18,110.58,79.9,Nimo TV,601,81,Trial,2020
+P185,Egypt,Nintendo Switch,Educational,46+,11.18,68.0,Vimeo,494,18,In-App Purchases,2019
+P186,Russia,Console,Simulation,26-35,87.3,96.0,Facebook Gaming,698,7,In-App Purchases,2019
+P187,Italy,Nintendo Switch,MOBA,46+,28.95,37.4,Vimeo,672,59,Premium,2022
+P188,South Korea,Xbox,Adventure,13-18,82.2,106.4,Facebook Gaming,86,21,Premium,2021
+P189,China,Steam,Strategy,26-35,101.22,14.4,DLive,113,5,Premium,2022
+P190,South Africa,Console,Sports,26-35,118.91,83.7,YouTube Gaming,635,4,Trial,2021
+P191,China,PC,Sports,26-35,18.6,113.3,Trovo,751,66,Trial,2022
+P192,Brazil,Console,MOBA,19-25,20.93,61.3,Caffeine,521,14,Premium,2021
+P193,Italy,Steam,Cooking,19-25,138.07,63.6,Twitch,366,90,Premium,2022
+P194,South Korea,Epic Games Store,MOBA,36-45,4.57,92.4,Nimo TV,803,87,Premium,2024
+P195,South Africa,Epic Games Store,Cooking,19-25,81.29,77.8,Mixer,23,60,Premium,2022
+P196,South Africa,Tablet,RPG,46+,115.97,42.4,YouTube Gaming,284,46,Free,2023
+P197,Nigeria,Smartphone,FPS,46+,137.37,99.8,Vimeo,466,12,Free,2024
+P198,Egypt,Smartphone,FPS,13-18,38.35,28.0,Vimeo,152,27,Premium,2021
+P199,Canada,Steam,Fighting,19-25,89.62,112.3,Twitch,21,88,Free,2023
+P200,USA,Epic Games Store,MOBA,19-25,20.42,100.0,YouTube Gaming,604,48,Trial,2021
+P201,Japan,Console,Fighting,46+,61.23,51.8,Vimeo,932,16,Trial,2020
+P202,Nigeria,Mobile,Educational,36-45,85.83,115.6,Trovo,409,65,In-App Purchases,2019
+P203,India,Steam,RPG,46+,105.69,27.9,Mixer,803,55,In-App Purchases,2019
+P204,Nigeria,Laptop,Strategy,19-25,18.59,107.2,Mixer,773,81,Free,2022
+P205,Italy,PlayStation,MOBA,46+,41.18,117.8,Facebook Gaming,251,85,Trial,2024
+P206,Argentina,Steam,Sports,26-35,8.75,38.3,Facebook Gaming,364,71,Premium,2020
+P207,France,Tablet,MOBA,36-45,47.0,34.4,Twitch,397,97,In-App Purchases,2021
+P208,Indonesia,Mobile,Fighting,19-25,136.92,94.1,DLive,311,54,In-App Purchases,2022
+P209,South Korea,Epic Games Store,Idle,13-18,53.29,30.7,Caffeine,639,73,Trial,2023
+P210,Europe,PC,Strategy,19-25,42.51,98.2,YouTube Gaming,556,93,Free,2020
+P211,Russia,PlayStation,Cooking,19-25,63.4,103.4,DLive,988,94,In-App Purchases,2020
+P212,Russia,Console,Puzzle,36-45,59.5,35.1,Trovo,590,62,Trial,2021
+P213,Japan,Tablet,Adventure,26-35,102.5,45.5,DLive,255,11,Trial,2023
+P214,Canada,Nintendo Switch,Fighting,26-35,104.31,96.1,Twitch,83,38,In-App Purchases,2023
+P215,Russia,Tablet,Battle Royale,26-35,1.54,11.0,Facebook Gaming,915,100,In-App Purchases,2021
+P216,Indonesia,PlayStation,Adventure,46+,18.67,46.1,Caffeine,701,70,Premium,2021
+P217,Canada,Tablet,Idle,26-35,82.1,61.6,Trovo,505,62,Free,2023
+P218,Indonesia,Console,Educational,13-18,20.81,51.5,Nimo TV,807,73,In-App Purchases,2020
+P219,Russia,Steam,Sports,13-18,139.11,11.7,Trovo,423,28,In-App Purchases,2023
+P220,Mexico,Xbox,Adventure,46+,81.18,32.9,Mixer,246,87,Premium,2021
+P221,Germany,VR,Battle Royale,46+,36.78,62.0,Caffeine,314,42,In-App Purchases,2024
+P222,UK,VR,Educational,19-25,121.66,101.4,DLive,551,92,In-App Purchases,2024
+P223,USA,Epic Games Store,Sports,13-18,11.07,67.8,YouTube Gaming,642,53,Trial,2020
+P224,Italy,Console,Battle Royale,19-25,145.7,15.6,Caffeine,266,33,Free,2021
+P225,Egypt,PC,Adventure,19-25,83.34,64.0,Twitch,488,41,Trial,2023
+P226,Japan,Steam,Strategy,19-25,55.86,108.6,Facebook Gaming,512,71,Free,2022
+P227,Brazil,PlayStation,Idle,26-35,128.68,58.6,DLive,370,16,Premium,2020
+P228,Australia,PC,Idle,19-25,30.75,112.8,Mixer,214,83,Free,2023
+P229,South Africa,Smartphone,Educational,13-18,63.14,103.4,Twitch,190,62,Premium,2019
+P230,USA,Steam,Educational,13-18,71.77,81.2,YouTube Gaming,976,79,In-App Purchases,2021
+P231,China,PC,Horror,19-25,123.82,51.1,YouTube Gaming,35,96,Trial,2022
+P232,Indonesia,Mobile,Educational,13-18,100.35,80.6,Nimo TV,320,31,Trial,2019
+P233,UK,Laptop,Cooking,13-18,117.91,71.5,Vimeo,549,21,In-App Purchases,2020
+P234,Canada,Epic Games Store,FPS,19-25,120.85,38.9,Vimeo,65,98,In-App Purchases,2020
+P235,Europe,Tablet,Puzzle,46+,117.54,54.0,Caffeine,411,33,Trial,2021
+P236,India,Laptop,Educational,36-45,85.68,61.5,Vimeo,608,53,Premium,2020
+P237,Mexico,Xbox,Idle,19-25,131.66,74.1,YouTube Gaming,632,18,Free,2022
+P238,Argentina,Epic Games Store,Puzzle,19-25,85.67,107.5,Caffeine,693,73,Premium,2024
+P239,Germany,PC,Idle,19-25,78.63,51.2,Caffeine,472,98,Free,2023
+P240,Egypt,Epic Games Store,Adventure,26-35,93.34,28.8,Trovo,617,77,In-App Purchases,2021
+P241,Europe,Steam,FPS,46+,146.29,57.8,Twitch,521,20,Trial,2024
+P242,Italy,Smartphone,Simulation,19-25,46.26,19.3,Caffeine,714,60,Premium,2019
+P243,India,Console,Puzzle,46+,61.73,49.6,Twitch,628,98,Free,2024
+P244,Australia,Mobile,Idle,36-45,97.71,41.7,Mixer,201,70,Free,2023
+P245,Mexico,Epic Games Store,Puzzle,46+,134.54,16.5,Facebook Gaming,816,11,Premium,2021
+P246,Russia,Tablet,Educational,46+,132.9,73.2,YouTube Gaming,342,60,In-App Purchases,2020
+P247,South Korea,Tablet,Strategy,19-25,121.79,94.3,Vimeo,116,82,Premium,2021
+P248,China,Nintendo Switch,Idle,46+,1.36,50.7,Nimo TV,969,11,In-App Purchases,2024
+P249,USA,Smartphone,Educational,26-35,60.72,110.8,Facebook Gaming,273,88,Free,2023
+P250,Mexico,Smartphone,Strategy,13-18,93.86,97.1,Vimeo,266,31,Premium,2024
+P251,Argentina,Console,RPG,19-25,93.92,53.6,Facebook Gaming,134,75,Premium,2021
+P252,Argentina,Steam,Puzzle,19-25,45.53,69.8,Vimeo,140,40,In-App Purchases,2023
+P253,France,PlayStation,FPS,19-25,118.29,70.0,DLive,882,57,Premium,2020
+P254,Brazil,PlayStation,MOBA,36-45,143.34,68.4,Twitch,583,52,In-App Purchases,2021
+P255,China,Smartphone,Music,26-35,65.61,86.5,Mixer,670,61,In-App Purchases,2020
+P256,South Korea,Steam,Fighting,26-35,99.03,66.6,Trovo,502,57,Premium,2024
+P257,Germany,Epic Games Store,Simulation,36-45,12.25,59.0,YouTube Gaming,220,61,Premium,2022
+P258,Japan,Xbox,Idle,13-18,45.43,32.7,Facebook Gaming,394,31,Premium,2019
+P259,Australia,Steam,Music,26-35,58.67,22.5,YouTube Gaming,619,40,Trial,2019
+P260,China,Laptop,Adventure,46+,145.21,80.3,Vimeo,820,29,Free,2019
+P261,UK,Epic Games Store,Puzzle,26-35,121.89,47.7,Twitch,370,96,Free,2020
+P262,South Africa,PC,Music,13-18,53.03,47.2,Caffeine,263,81,Trial,2024
+P263,South Africa,Steam,Educational,13-18,44.62,45.4,Caffeine,754,56,Trial,2021
+P264,Egypt,Console,Strategy,36-45,52.34,105.3,Vimeo,67,2,Premium,2024
+P265,Australia,PlayStation,Cooking,36-45,73.85,88.0,Caffeine,176,1,Free,2019
+P266,Argentina,PC,Simulation,13-18,104.82,60.6,Nimo TV,472,33,Trial,2023
+P267,Japan,Tablet,FPS,13-18,8.2,100.6,Trovo,83,91,Premium,2021
+P268,Nigeria,Tablet,Horror,19-25,93.98,85.2,Nimo TV,123,78,Trial,2019
+P269,Europe,Laptop,Adventure,26-35,36.87,100.0,DLive,741,24,In-App Purchases,2020
+P270,China,PlayStation,Simulation,13-18,114.59,31.6,Trovo,322,70,Free,2020
+P271,Europe,Epic Games Store,Simulation,13-18,116.19,24.1,DLive,954,90,Free,2022
+P272,Italy,PlayStation,Educational,13-18,35.33,95.8,YouTube Gaming,270,7,Trial,2021
+P273,Canada,Xbox,Simulation,19-25,102.31,78.2,YouTube Gaming,25,14,Trial,2024
+P274,Mexico,Smartphone,Horror,19-25,100.72,97.1,DLive,91,48,Trial,2024
+P275,Egypt,Laptop,Battle Royale,36-45,81.34,118.7,Vimeo,92,73,Trial,2021
+P276,Australia,Smartphone,Educational,13-18,138.68,97.3,Nimo TV,458,8,Premium,2021
+P277,Italy,PC,Music,36-45,65.71,77.8,YouTube Gaming,843,41,In-App Purchases,2023
+P278,Nigeria,Mobile,Puzzle,46+,50.23,97.8,Mixer,988,70,Free,2022
+P279,Canada,Epic Games Store,RPG,13-18,139.2,44.3,DLive,44,85,Trial,2024
+P280,Europe,Smartphone,Educational,19-25,74.16,83.5,Trovo,280,46,Trial,2021
+P281,Italy,Mobile,Sports,19-25,74.35,35.2,Mixer,544,48,Premium,2019
+P282,UK,Tablet,Sports,26-35,88.4,12.6,Mixer,266,13,Free,2020
+P283,Germany,Laptop,FPS,13-18,67.7,58.4,Caffeine,352,7,Premium,2021
+P284,South Korea,Mobile,Educational,26-35,53.96,46.7,Caffeine,47,10,In-App Purchases,2019
+P285,Indonesia,Smartphone,Horror,13-18,60.96,106.2,Nimo TV,374,97,In-App Purchases,2020
+P286,Germany,Epic Games Store,Strategy,13-18,16.37,10.6,Twitch,882,57,Trial,2024
+P287,Italy,Tablet,Horror,13-18,12.39,115.4,Mixer,112,72,In-App Purchases,2020
+P288,India,Console,Fighting,26-35,64.91,78.8,Vimeo,442,72,Free,2019
+P289,Japan,Tablet,Cooking,26-35,123.68,65.4,Facebook Gaming,605,39,Trial,2021
+P290,Germany,Laptop,Idle,19-25,64.6,91.8,Twitch,292,90,Free,2022
+P291,South Korea,Smartphone,MOBA,26-35,68.85,57.5,Caffeine,861,18,Premium,2023
+P292,Germany,PC,Idle,13-18,99.18,51.1,YouTube Gaming,820,54,Free,2023
+P293,Japan,Steam,Sports,13-18,138.5,52.7,Vimeo,316,52,Premium,2019
+P294,Indonesia,Smartphone,Music,19-25,130.14,42.8,Facebook Gaming,925,77,Premium,2021
+P295,Mexico,VR,FPS,19-25,7.12,63.1,Vimeo,932,81,Trial,2022
+P296,Japan,Smartphone,Sports,19-25,147.56,92.6,YouTube Gaming,184,64,In-App Purchases,2020
+P297,Nigeria,Xbox,MOBA,26-35,54.88,103.7,Trovo,412,56,Free,2020
+P298,India,Nintendo Switch,FPS,26-35,53.43,105.8,Caffeine,532,46,Trial,2020
+P299,Russia,Steam,Idle,19-25,125.16,14.2,DLive,460,85,Premium,2019
+P300,Europe,Smartphone,Battle Royale,13-18,55.71,68.3,Mixer,243,73,Free,2019
+P301,Italy,Nintendo Switch,Horror,13-18,72.52,55.1,Vimeo,948,53,Trial,2021
+P302,Russia,Nintendo Switch,Cooking,46+,63.87,100.2,Vimeo,575,85,Trial,2020
+P303,Brazil,Xbox,Strategy,19-25,140.31,99.9,Trovo,492,68,Premium,2020
+P304,Australia,Laptop,Battle Royale,19-25,134.5,88.5,Vimeo,217,21,Premium,2021
+P305,Indonesia,Epic Games Store,Cooking,19-25,61.13,90.9,YouTube Gaming,272,88,Premium,2019
+P306,China,PC,Fighting,46+,69.64,24.4,Vimeo,2,18,Premium,2020
+P307,Russia,Steam,Horror,46+,43.15,102.6,Nimo TV,123,60,In-App Purchases,2023
+P308,Canada,Steam,Music,19-25,137.58,120.0,Caffeine,596,60,In-App Purchases,2020
+P309,Indonesia,VR,Adventure,13-18,46.39,108.3,Facebook Gaming,490,37,In-App Purchases,2024
+P310,Germany,PlayStation,Fighting,26-35,69.65,84.4,Mixer,490,96,Premium,2023
+P311,Argentina,Laptop,Simulation,13-18,50.01,78.9,Facebook Gaming,219,85,Premium,2023
+P312,South Africa,Mobile,Battle Royale,13-18,15.38,114.0,Vimeo,510,89,Premium,2024
+P313,Europe,VR,Battle Royale,46+,140.88,43.4,Mixer,437,26,Free,2023
+P314,Brazil,PlayStation,Sports,13-18,115.46,12.5,Mixer,246,82,Free,2021
+P315,Japan,Laptop,Sports,46+,91.77,63.0,Vimeo,600,25,Trial,2020
+P316,India,PlayStation,Educational,26-35,30.47,55.8,Trovo,39,17,Premium,2024
+P317,Europe,Epic Games Store,Horror,26-35,111.32,114.3,Mixer,520,33,Premium,2023
+P318,Mexico,PC,Fighting,46+,12.82,46.9,Caffeine,58,91,Premium,2022
+P319,UK,Epic Games Store,Sports,19-25,102.74,73.9,Twitch,95,69,Premium,2020
+P320,Germany,Epic Games Store,Simulation,26-35,45.73,110.0,Vimeo,414,56,In-App Purchases,2021
+P321,China,PC,Music,26-35,5.08,15.7,Twitch,429,88,In-App Purchases,2022
+P322,Canada,Tablet,Idle,13-18,149.46,60.6,Vimeo,879,42,Free,2019
+P323,France,VR,Simulation,26-35,104.05,76.2,Twitch,588,27,Premium,2023
+P324,Australia,Mobile,Sports,26-35,36.8,20.8,DLive,805,43,In-App Purchases,2024
+P325,Australia,Laptop,Horror,26-35,81.25,89.2,Trovo,179,98,Free,2020
+P326,South Korea,Laptop,Adventure,36-45,120.14,73.6,DLive,35,11,Trial,2020
+P327,Egypt,Nintendo Switch,Puzzle,26-35,38.46,80.3,YouTube Gaming,640,91,Free,2023
+P328,Russia,Smartphone,FPS,13-18,55.7,68.5,Trovo,835,85,Premium,2021
+P329,Germany,PC,Sports,46+,61.19,47.3,Mixer,349,46,Free,2024
+P330,Italy,Laptop,Horror,36-45,132.88,90.6,Caffeine,116,96,Premium,2020
+P331,Australia,PlayStation,Educational,46+,82.85,17.4,DLive,543,62,Premium,2023
+P332,Europe,Mobile,Idle,36-45,17.52,93.0,Facebook Gaming,464,46,In-App Purchases,2019
+P333,China,Laptop,Adventure,36-45,63.35,10.2,YouTube Gaming,979,91,Premium,2021
+P334,France,Tablet,Cooking,19-25,0.31,14.0,Nimo TV,547,51,Free,2023
+P335,Egypt,Laptop,Simulation,13-18,66.45,59.5,Facebook Gaming,822,84,Trial,2019
+P336,Argentina,Mobile,Cooking,13-18,77.08,74.5,Trovo,208,44,Trial,2019
+P337,Egypt,Xbox,Idle,13-18,84.38,35.7,Caffeine,377,68,Trial,2023
+P338,Japan,PlayStation,Cooking,26-35,16.86,83.6,Nimo TV,802,96,Free,2019
+P339,South Korea,Steam,Adventure,26-35,78.65,31.1,Facebook Gaming,739,96,Premium,2021
+P340,Canada,Xbox,Fighting,19-25,128.15,47.0,Nimo TV,568,33,Free,2021
+P341,South Africa,Mobile,Adventure,36-45,22.43,100.9,Vimeo,463,85,Free,2024
+P342,China,PlayStation,RPG,36-45,70.43,62.1,Trovo,575,63,Premium,2024
+P343,Germany,Console,Sports,36-45,75.25,64.1,Vimeo,630,59,Free,2020
+P344,South Korea,Console,Idle,36-45,44.52,15.5,Caffeine,536,46,In-App Purchases,2022
+P345,Argentina,Mobile,Puzzle,26-35,111.35,11.0,Twitch,533,82,In-App Purchases,2020
+P346,South Korea,Steam,Simulation,36-45,28.5,109.2,Facebook Gaming,177,41,In-App Purchases,2019
+P347,South Africa,Laptop,RPG,36-45,31.71,75.9,Mixer,726,60,Premium,2021
+P348,USA,Smartphone,Puzzle,19-25,67.76,24.6,Trovo,500,74,Trial,2023
+P349,UK,Mobile,Horror,46+,69.25,66.7,Nimo TV,701,5,Trial,2020
+P350,Germany,Epic Games Store,Cooking,26-35,22.76,75.3,Nimo TV,461,36,Premium,2024
+P351,Germany,Laptop,Idle,36-45,106.68,104.9,Nimo TV,708,35,Free,2020
+P352,France,PlayStation,Adventure,46+,12.61,50.9,DLive,877,50,In-App Purchases,2021
+P353,Argentina,Smartphone,Battle Royale,46+,17.59,58.3,Vimeo,162,6,Trial,2019
+P354,Argentina,Console,Cooking,46+,59.31,84.6,Twitch,379,49,Trial,2020
+P355,South Africa,Mobile,Cooking,36-45,11.82,78.3,Nimo TV,230,41,Trial,2019
+P356,Europe,PlayStation,RPG,26-35,13.58,44.4,DLive,659,2,Free,2024
+P357,Italy,Smartphone,MOBA,26-35,37.36,38.6,Nimo TV,202,60,Free,2020
+P358,South Korea,Xbox,Simulation,13-18,125.87,102.6,YouTube Gaming,698,91,Free,2021
+P359,UK,Nintendo Switch,Horror,46+,56.84,48.8,Vimeo,532,44,Trial,2020
+P360,Germany,Tablet,Horror,46+,60.79,73.3,Mixer,268,68,Trial,2022
+P361,France,Nintendo Switch,FPS,36-45,11.01,53.3,Vimeo,133,7,Free,2023
+P362,Brazil,VR,Fighting,26-35,129.52,117.2,Vimeo,145,34,Trial,2020
+P363,India,Mobile,Strategy,36-45,84.57,77.3,Trovo,869,78,Premium,2019
+P364,Japan,Console,RPG,26-35,134.73,85.1,Caffeine,147,72,Premium,2024
+P365,Brazil,Laptop,Simulation,36-45,23.51,80.5,Nimo TV,908,7,Premium,2022
+P366,China,Console,RPG,36-45,39.08,77.4,DLive,795,96,Trial,2022
+P367,Japan,Mobile,FPS,46+,90.81,91.0,Trovo,226,36,Premium,2021
+P368,China,Smartphone,Music,13-18,0.74,95.7,Vimeo,999,38,Trial,2020
+P369,Egypt,Epic Games Store,FPS,26-35,63.35,39.0,Trovo,139,30,Free,2021
+P370,France,Nintendo Switch,Horror,19-25,22.86,32.2,Mixer,57,87,Trial,2022
+P371,South Africa,Xbox,Horror,26-35,55.37,10.8,DLive,472,47,Free,2023
+P372,Nigeria,PlayStation,Idle,26-35,119.63,17.4,DLive,190,59,In-App Purchases,2024
+P373,Japan,Nintendo Switch,Puzzle,46+,125.04,112.7,Vimeo,368,96,Premium,2024
+P374,Europe,Nintendo Switch,Fighting,13-18,143.4,77.4,Twitch,832,45,Premium,2023
+P375,UK,Epic Games Store,Simulation,26-35,121.08,18.0,DLive,222,65,In-App Purchases,2019
+P376,Italy,PlayStation,Strategy,36-45,128.01,27.7,Nimo TV,916,42,In-App Purchases,2019
+P377,Canada,Tablet,Fighting,26-35,141.34,78.6,DLive,747,64,In-App Purchases,2020
+P378,Argentina,Mobile,Cooking,36-45,6.78,77.0,Nimo TV,40,25,Free,2019
+P379,China,Console,Educational,19-25,124.81,98.1,Trovo,635,26,Trial,2023
+P380,Germany,Tablet,Battle Royale,36-45,144.99,73.5,Nimo TV,579,98,Free,2022
+P381,Indonesia,Xbox,Idle,26-35,59.98,70.3,YouTube Gaming,77,26,Free,2023
+P382,Russia,Epic Games Store,Sports,26-35,129.34,97.6,Mixer,105,100,Premium,2024
+P383,Germany,VR,Fighting,36-45,136.6,78.2,Twitch,591,82,In-App Purchases,2020
+P384,France,PC,Strategy,26-35,142.43,104.2,Mixer,222,27,Premium,2023
+P385,Russia,Console,Idle,26-35,110.95,10.9,Mixer,152,7,Free,2024
+P386,Europe,Laptop,Cooking,36-45,11.72,96.7,Caffeine,593,32,Trial,2023
+P387,Nigeria,Mobile,Adventure,36-45,113.21,45.1,DLive,338,29,Premium,2019
+P388,Egypt,Console,Strategy,26-35,112.64,25.7,Vimeo,41,56,Premium,2021
+P389,Germany,Epic Games Store,Sports,13-18,46.99,35.0,Nimo TV,83,99,In-App Purchases,2023
+P390,Russia,VR,Educational,46+,132.59,42.1,Caffeine,690,25,Trial,2022
+P391,UK,PlayStation,Music,19-25,65.0,35.6,Facebook Gaming,854,25,Trial,2023
+P392,Nigeria,VR,Battle Royale,46+,135.73,74.8,Trovo,857,28,In-App Purchases,2019
+P393,Brazil,Mobile,MOBA,13-18,135.31,14.1,YouTube Gaming,237,93,Trial,2022
+P394,Egypt,PlayStation,Music,26-35,125.94,28.5,Trovo,709,13,In-App Purchases,2023
+P395,Brazil,Laptop,Fighting,46+,43.81,38.4,Trovo,116,12,Free,2021
+P396,Nigeria,Console,Cooking,13-18,30.53,62.5,Twitch,472,1,Free,2023
+P397,Canada,Smartphone,Puzzle,36-45,37.75,34.6,Nimo TV,82,82,Free,2019
+P398,Europe,Console,Cooking,13-18,100.52,53.9,YouTube Gaming,310,94,In-App Purchases,2021
+P399,Russia,Nintendo Switch,Educational,26-35,80.75,113.5,Nimo TV,192,85,In-App Purchases,2024
+P400,South Korea,Console,FPS,26-35,47.77,78.0,Vimeo,677,6,Free,2024
+P401,Russia,PlayStation,Fighting,46+,43.15,80.0,Twitch,87,24,Free,2021
+P402,India,Xbox,FPS,46+,72.96,31.0,DLive,580,37,Trial,2020
+P403,Egypt,PlayStation,Fighting,36-45,70.68,44.1,Facebook Gaming,7,65,Premium,2023
+P404,India,Smartphone,Cooking,46+,115.57,81.7,Caffeine,720,93,Trial,2023
+P405,France,Laptop,Puzzle,13-18,143.6,39.4,Caffeine,26,67,Premium,2021
+P406,Italy,Tablet,Fighting,26-35,64.12,52.6,Trovo,786,46,In-App Purchases,2024
+P407,Mexico,Epic Games Store,Strategy,13-18,5.48,108.1,Nimo TV,367,93,Free,2020
+P408,South Korea,Laptop,RPG,19-25,80.21,71.5,YouTube Gaming,228,86,Trial,2022
+P409,Germany,Console,Cooking,13-18,146.59,56.1,Caffeine,988,51,Trial,2019
+P410,UK,Xbox,Puzzle,19-25,74.33,34.7,Twitch,397,87,Premium,2021
+P411,Nigeria,Epic Games Store,Educational,13-18,88.31,88.5,YouTube Gaming,315,53,In-App Purchases,2024
+P412,India,Nintendo Switch,RPG,13-18,103.38,67.9,DLive,381,53,Free,2024
+P413,France,Xbox,Idle,19-25,132.94,93.3,Vimeo,88,5,Free,2024
+P414,Indonesia,Mobile,RPG,19-25,78.07,105.0,Twitch,88,96,Free,2023
+P415,Mexico,VR,MOBA,36-45,107.62,58.7,Trovo,567,53,Premium,2024
+P416,South Korea,PlayStation,Simulation,36-45,75.43,49.9,Vimeo,38,59,Free,2022
+P417,South Africa,VR,Sports,19-25,107.83,97.9,Caffeine,712,15,In-App Purchases,2023
+P418,Russia,Tablet,Educational,13-18,30.36,13.6,Vimeo,78,68,Trial,2022
+P419,Mexico,Smartphone,MOBA,26-35,75.42,46.9,Caffeine,225,10,In-App Purchases,2023
+P420,India,PlayStation,Educational,46+,96.95,24.0,Trovo,335,99,Free,2023
+P421,Argentina,Steam,Puzzle,19-25,125.52,41.0,Facebook Gaming,485,65,In-App Purchases,2023
+P422,Brazil,Console,Cooking,13-18,138.6,105.8,Facebook Gaming,536,51,Premium,2023
+P423,USA,Epic Games Store,MOBA,19-25,126.32,25.1,Mixer,425,58,Free,2022
+P424,Argentina,PlayStation,Idle,26-35,9.55,117.5,Trovo,634,32,Premium,2023
+P425,Italy,Steam,Cooking,26-35,13.72,13.9,Nimo TV,401,19,Premium,2019
+P426,Argentina,Xbox,Battle Royale,46+,87.85,51.8,Caffeine,223,91,Free,2019
+P427,Japan,PlayStation,Adventure,13-18,129.0,105.4,Mixer,640,14,In-App Purchases,2020
+P428,Brazil,Xbox,FPS,13-18,131.36,43.4,Trovo,505,85,In-App Purchases,2023
+P429,Mexico,Steam,Sports,13-18,112.05,118.3,Trovo,100,88,Trial,2023
+P430,Brazil,Steam,Puzzle,26-35,145.58,67.3,DLive,793,30,In-App Purchases,2023
+P431,South Korea,PC,Idle,26-35,93.56,82.0,Caffeine,459,28,In-App Purchases,2022
+P432,China,Epic Games Store,Educational,13-18,84.64,57.7,Trovo,530,29,In-App Purchases,2024
+P433,Egypt,Epic Games Store,Horror,13-18,120.98,104.9,Vimeo,82,95,In-App Purchases,2022
+P434,Russia,Laptop,Music,36-45,118.0,91.6,Twitch,943,60,Trial,2023
+P435,China,Mobile,Sports,36-45,73.2,78.7,Facebook Gaming,779,75,Trial,2019
+P436,South Korea,Mobile,MOBA,36-45,85.11,71.2,YouTube Gaming,259,57,Trial,2019
+P437,Nigeria,PC,Horror,46+,2.8,51.0,Trovo,228,57,In-App Purchases,2024
+P438,Argentina,Steam,Cooking,19-25,55.16,12.6,Caffeine,865,31,Trial,2022
+P439,Indonesia,VR,Simulation,19-25,68.04,27.7,DLive,433,39,In-App Purchases,2023
+P440,Russia,Mobile,Adventure,19-25,8.44,117.9,YouTube Gaming,214,88,Trial,2020
+P441,Argentina,Xbox,Music,19-25,70.55,82.4,DLive,224,19,Trial,2023
+P442,France,PC,Horror,13-18,64.62,85.8,Trovo,680,96,Trial,2023
+P443,China,PlayStation,Puzzle,13-18,147.03,119.8,YouTube Gaming,929,17,In-App Purchases,2022
+P444,Germany,Tablet,FPS,26-35,26.27,93.1,Trovo,439,32,In-App Purchases,2023
+P445,South Korea,Mobile,Music,36-45,122.67,119.9,YouTube Gaming,533,52,Premium,2022
+P446,Brazil,Laptop,Idle,36-45,144.79,102.5,Trovo,31,32,In-App Purchases,2022
+P447,India,PlayStation,Puzzle,26-35,126.41,78.3,Nimo TV,605,92,Trial,2020
+P448,Europe,Smartphone,MOBA,19-25,119.0,75.5,Trovo,321,75,Premium,2021
+P449,USA,Laptop,Horror,26-35,148.14,16.4,DLive,665,76,Premium,2023
+P450,Indonesia,Epic Games Store,Cooking,13-18,147.58,92.2,YouTube Gaming,187,40,Premium,2023
+P451,South Africa,Xbox,Horror,26-35,34.08,17.8,Mixer,444,69,In-App Purchases,2022
+P452,Egypt,PC,MOBA,26-35,40.98,109.0,Facebook Gaming,601,45,Premium,2023
+P453,Italy,Tablet,Idle,46+,74.4,22.3,Mixer,957,60,Trial,2024
+P454,Argentina,Steam,MOBA,13-18,22.97,43.0,Vimeo,323,67,In-App Purchases,2023
+P455,Mexico,Laptop,Sports,26-35,45.17,49.5,YouTube Gaming,116,43,Free,2023
+P456,Japan,Nintendo Switch,Educational,13-18,117.7,28.9,YouTube Gaming,770,88,Free,2019
+P457,Indonesia,Smartphone,Adventure,46+,92.78,31.5,Vimeo,88,74,Free,2024
+P458,Italy,PC,Strategy,19-25,99.0,114.9,Nimo TV,46,67,Trial,2023
+P459,Russia,Laptop,RPG,46+,126.8,117.0,Nimo TV,343,96,Premium,2020
+P460,Indonesia,Xbox,Sports,46+,136.97,55.2,Facebook Gaming,209,30,Free,2023
+P461,Mexico,Epic Games Store,RPG,13-18,120.35,18.5,Vimeo,526,28,Free,2022
+P462,Indonesia,Epic Games Store,FPS,46+,96.11,107.9,Mixer,842,57,Trial,2019
+P463,China,VR,Music,19-25,84.71,88.5,Mixer,143,59,In-App Purchases,2020
+P464,Argentina,Xbox,RPG,13-18,143.35,110.3,DLive,999,70,Trial,2021
+P465,Canada,PlayStation,Horror,46+,27.56,37.1,Trovo,317,65,Trial,2023
+P466,Mexico,Console,Horror,46+,37.96,37.2,Twitch,798,71,Trial,2019
+P467,China,Xbox,MOBA,13-18,122.83,74.1,Facebook Gaming,566,27,Premium,2019
+P468,India,Nintendo Switch,Cooking,46+,106.65,85.6,Trovo,568,74,Premium,2019
+P469,UK,Smartphone,Battle Royale,19-25,55.37,28.7,Twitch,165,13,Premium,2021
+P470,Argentina,Nintendo Switch,FPS,26-35,87.96,95.0,DLive,291,36,Premium,2024
+P471,South Korea,Mobile,Cooking,13-18,22.87,69.4,Trovo,393,22,Trial,2021
+P472,Europe,Tablet,Adventure,13-18,6.04,59.3,Caffeine,550,66,In-App Purchases,2021
+P473,South Africa,Mobile,Horror,36-45,126.41,97.1,Trovo,897,34,Premium,2021
+P474,Indonesia,VR,Adventure,26-35,89.24,86.2,Facebook Gaming,84,14,Trial,2021
+P475,Nigeria,VR,MOBA,13-18,24.23,79.7,Trovo,549,16,In-App Purchases,2021
+P476,Europe,VR,Simulation,19-25,41.5,28.9,Facebook Gaming,34,96,Free,2024
+P477,Egypt,Tablet,Educational,26-35,78.12,15.8,Vimeo,259,1,Free,2019
+P478,Canada,Epic Games Store,Educational,13-18,89.27,108.1,Vimeo,223,70,In-App Purchases,2024
+P479,Germany,Tablet,RPG,36-45,9.68,53.6,Vimeo,235,16,Premium,2021
+P480,Egypt,Nintendo Switch,RPG,36-45,30.87,20.3,Vimeo,556,95,Trial,2020
+P481,France,Mobile,Fighting,19-25,104.17,115.2,DLive,160,70,Premium,2021
+P482,Brazil,Steam,RPG,46+,114.23,117.6,Trovo,960,27,In-App Purchases,2023
+P483,Italy,Nintendo Switch,RPG,19-25,23.99,41.9,Nimo TV,662,7,In-App Purchases,2024
+P484,Canada,Steam,Music,26-35,34.39,111.9,Trovo,449,81,Free,2022
+P485,China,Steam,FPS,46+,60.92,70.7,DLive,559,88,Trial,2022
+P486,Italy,PC,Adventure,46+,22.59,108.6,Nimo TV,759,58,Premium,2021
+P487,USA,Smartphone,MOBA,46+,143.72,99.0,Vimeo,29,100,Free,2023
+P488,Canada,Tablet,Simulation,36-45,113.87,91.8,Trovo,858,51,In-App Purchases,2022
+P489,Germany,PC,Simulation,26-35,137.07,106.5,Caffeine,180,74,Premium,2024
+P490,South Africa,Epic Games Store,Simulation,19-25,4.6,34.5,Twitch,904,23,Free,2023
+P491,Brazil,Smartphone,Cooking,36-45,81.6,26.4,YouTube Gaming,579,93,In-App Purchases,2023
+P492,Mexico,PlayStation,Puzzle,36-45,93.41,80.9,Vimeo,256,4,Trial,2022
+P493,Nigeria,Laptop,Sports,46+,38.57,115.6,Caffeine,9,5,Premium,2019
+P494,Italy,Epic Games Store,Strategy,19-25,35.46,86.9,Twitch,991,98,Free,2024
+P495,Italy,VR,Cooking,19-25,38.25,48.8,Twitch,253,73,Free,2022
+P496,Japan,Laptop,FPS,13-18,109.92,27.3,Caffeine,645,82,In-App Purchases,2020
+P497,Europe,Laptop,Simulation,13-18,17.18,40.7,DLive,973,64,Premium,2019
+P498,Argentina,Xbox,MOBA,19-25,73.27,61.9,Twitch,705,28,In-App Purchases,2022
+P499,Egypt,Tablet,Fighting,19-25,128.17,79.6,Nimo TV,572,42,Free,2024
+P500,Italy,Smartphone,Strategy,26-35,125.53,49.4,Twitch,825,19,Trial,2024
+P501,Nigeria,VR,Strategy,13-18,138.17,53.6,Caffeine,830,89,Premium,2020
+P502,China,Console,Simulation,26-35,85.95,20.4,Nimo TV,855,96,Premium,2020
+P503,Russia,Nintendo Switch,Educational,26-35,140.77,104.6,Trovo,919,51,Free,2021
+P504,Indonesia,Mobile,Simulation,46+,76.39,85.3,Vimeo,221,65,Trial,2022
+P505,USA,Mobile,Educational,26-35,94.05,76.6,Nimo TV,630,25,Trial,2020
+P506,Egypt,Laptop,Music,19-25,106.68,42.4,Nimo TV,377,4,Premium,2024
+P507,France,PlayStation,Music,46+,61.88,32.0,Twitch,439,58,Premium,2023
+P508,Canada,Laptop,Fighting,19-25,26.24,69.3,Vimeo,741,23,Trial,2020
+P509,Europe,Smartphone,Educational,26-35,120.39,97.9,DLive,636,96,Free,2020
+P510,Japan,Nintendo Switch,Simulation,19-25,34.26,103.6,DLive,422,23,Premium,2023
+P511,USA,PlayStation,Sports,19-25,30.07,107.8,Vimeo,692,46,Free,2022
+P512,South Korea,Smartphone,Simulation,19-25,70.5,31.4,Twitch,84,16,Trial,2023
+P513,South Africa,Laptop,Cooking,13-18,101.72,49.7,Twitch,698,87,In-App Purchases,2019
+P514,Australia,VR,Adventure,19-25,78.43,34.0,Mixer,86,95,In-App Purchases,2020
+P515,Australia,Smartphone,Sports,19-25,57.18,17.1,Vimeo,275,81,In-App Purchases,2021
+P516,Japan,PC,FPS,13-18,130.72,80.7,Trovo,549,81,In-App Purchases,2022
+P517,Brazil,Laptop,Strategy,46+,107.43,96.7,Facebook Gaming,448,79,Trial,2021
+P518,Egypt,Steam,Idle,46+,4.77,97.4,Caffeine,312,98,In-App Purchases,2023
+P519,Germany,Tablet,MOBA,13-18,95.0,89.9,Twitch,284,13,Free,2020
+P520,Germany,Smartphone,Educational,36-45,2.48,98.1,Caffeine,703,13,Free,2024
+P521,Canada,Epic Games Store,Simulation,19-25,12.65,58.9,Mixer,845,22,Free,2021
+P522,France,Epic Games Store,Educational,26-35,124.09,68.4,Mixer,30,46,Trial,2023
+P523,Brazil,Console,Music,13-18,12.04,17.7,DLive,707,26,Free,2023
+P524,Argentina,Tablet,Horror,46+,101.19,56.9,Trovo,108,80,In-App Purchases,2021
+P525,China,Nintendo Switch,Fighting,46+,69.76,29.8,DLive,558,51,Free,2022
+P526,France,Xbox,Fighting,13-18,37.36,107.2,Twitch,885,62,Trial,2023
+P527,Brazil,VR,Fighting,13-18,111.38,112.5,Nimo TV,78,1,Free,2020
+P528,Egypt,Steam,Cooking,36-45,60.41,95.8,DLive,593,23,Trial,2023
+P529,Nigeria,Xbox,Battle Royale,19-25,132.09,94.8,Mixer,536,30,Premium,2023
+P530,Russia,Laptop,Educational,19-25,142.95,80.0,Twitch,633,47,In-App Purchases,2022
+P531,China,Console,Sports,13-18,96.18,80.9,Facebook Gaming,251,29,Premium,2023
+P532,Germany,PlayStation,Strategy,19-25,72.49,86.8,Vimeo,45,47,Free,2021
+P533,Brazil,Nintendo Switch,Battle Royale,19-25,110.26,35.9,Mixer,758,16,Trial,2021
+P534,Italy,Tablet,Cooking,46+,53.09,86.5,Twitch,963,40,Premium,2021
+P535,Mexico,Nintendo Switch,Fighting,26-35,141.36,18.0,DLive,764,62,Trial,2023
+P536,Canada,Laptop,Battle Royale,26-35,23.45,98.3,Mixer,622,61,Trial,2021
+P537,UK,PlayStation,Sports,36-45,120.4,102.8,Twitch,744,44,In-App Purchases,2021
+P538,China,Nintendo Switch,Strategy,19-25,146.98,61.9,Nimo TV,592,25,Free,2022
+P539,Indonesia,VR,Fighting,46+,147.84,104.6,Facebook Gaming,542,13,Trial,2022
+P540,Canada,VR,Cooking,46+,8.81,75.3,DLive,491,14,Trial,2021
+P541,Brazil,Xbox,RPG,13-18,107.72,20.0,YouTube Gaming,581,80,Trial,2020
+P542,South Korea,Smartphone,Cooking,19-25,54.53,19.2,YouTube Gaming,761,11,Free,2022
+P543,Italy,Xbox,Cooking,36-45,118.52,97.9,Nimo TV,307,12,Free,2023
+P544,UK,Console,Cooking,46+,110.87,83.0,Trovo,432,28,Free,2019
+P545,Japan,Epic Games Store,Adventure,26-35,101.98,47.6,Mixer,90,1,Premium,2023
+P546,South Korea,PlayStation,Cooking,26-35,3.1,44.0,YouTube Gaming,168,87,In-App Purchases,2021
+P547,Brazil,Console,Strategy,36-45,33.99,15.0,Nimo TV,649,81,Trial,2020
+P548,Russia,Xbox,Simulation,13-18,47.72,75.2,DLive,873,24,Premium,2024
+P549,Canada,Epic Games Store,Battle Royale,46+,50.46,66.5,Caffeine,407,92,Trial,2022
+P550,Nigeria,Nintendo Switch,Sports,46+,106.27,17.5,Twitch,735,71,Free,2023
+P551,India,VR,FPS,36-45,146.81,47.7,Facebook Gaming,114,6,Free,2023
+P552,Indonesia,PlayStation,Simulation,36-45,147.96,81.1,YouTube Gaming,75,32,Premium,2021
+P553,Canada,Laptop,Educational,19-25,24.26,91.6,Twitch,423,46,Trial,2020
+P554,Italy,Nintendo Switch,Sports,36-45,138.15,99.1,Vimeo,832,44,Free,2019
+P555,Nigeria,Console,Educational,26-35,82.18,59.8,YouTube Gaming,112,57,Free,2021
+P556,Mexico,Nintendo Switch,RPG,36-45,20.0,116.6,Facebook Gaming,312,28,Trial,2022
+P557,Argentina,PC,Idle,26-35,109.59,44.8,Caffeine,859,92,In-App Purchases,2023
+P558,India,Nintendo Switch,Cooking,19-25,65.32,39.2,DLive,250,92,In-App Purchases,2022
+P559,Japan,Smartphone,Puzzle,13-18,84.85,77.4,YouTube Gaming,534,96,In-App Purchases,2021
+P560,Russia,PlayStation,Puzzle,13-18,38.36,85.1,Facebook Gaming,353,65,Free,2019
+P561,Egypt,Nintendo Switch,Simulation,13-18,91.03,18.6,Trovo,815,52,In-App Purchases,2023
+P562,Brazil,PlayStation,Strategy,46+,140.64,82.0,Nimo TV,817,64,In-App Purchases,2024
+P563,Australia,PlayStation,Strategy,19-25,145.97,44.8,Twitch,924,68,In-App Purchases,2019
+P564,Germany,VR,Battle Royale,26-35,11.98,23.0,Nimo TV,914,96,In-App Purchases,2019
+P565,USA,VR,Horror,36-45,60.79,43.6,Mixer,199,81,Free,2019
+P566,Egypt,Steam,Adventure,46+,49.43,13.4,Vimeo,268,52,Trial,2020
+P567,South Korea,Laptop,Adventure,19-25,30.93,106.5,DLive,741,59,In-App Purchases,2022
+P568,UK,VR,Horror,26-35,62.39,78.9,Nimo TV,681,33,Trial,2020
+P569,Mexico,PlayStation,Idle,19-25,50.6,101.1,Trovo,534,94,Free,2021
+P570,Canada,Nintendo Switch,Cooking,36-45,75.08,50.8,Caffeine,421,67,Trial,2019
+P571,Germany,Tablet,Idle,13-18,15.07,109.0,Nimo TV,182,89,Free,2021
+P572,Germany,Epic Games Store,Horror,13-18,47.74,86.8,Facebook Gaming,644,92,Trial,2020
+P573,Japan,PC,Strategy,46+,121.3,58.0,Trovo,504,58,In-App Purchases,2022
+P574,Germany,Steam,Idle,13-18,107.6,77.0,Vimeo,590,73,Premium,2023
+P575,Argentina,Console,FPS,36-45,61.42,58.9,Twitch,62,56,Premium,2020
+P576,Italy,Mobile,Simulation,19-25,122.11,108.4,Vimeo,972,4,Trial,2024
+P577,Europe,Mobile,FPS,46+,106.78,10.7,Mixer,795,93,Free,2021
+P578,Argentina,VR,Puzzle,26-35,118.55,81.0,Mixer,198,99,Premium,2024
+P579,Argentina,Nintendo Switch,Puzzle,46+,80.48,67.7,Caffeine,798,64,Trial,2023
+P580,UK,Steam,Strategy,19-25,2.89,59.7,Mixer,224,49,Trial,2022
+P581,Indonesia,PlayStation,Fighting,19-25,111.76,75.0,YouTube Gaming,27,98,In-App Purchases,2024
+P582,Indonesia,Tablet,Music,19-25,119.61,36.1,Caffeine,462,68,Trial,2019
+P583,Australia,Laptop,Music,46+,99.0,42.9,YouTube Gaming,458,45,Trial,2023
+P584,South Africa,Laptop,Idle,46+,61.61,89.2,Mixer,128,42,In-App Purchases,2023
+P585,China,VR,FPS,26-35,146.07,85.1,Mixer,429,88,In-App Purchases,2020
+P586,Germany,Xbox,Puzzle,19-25,51.92,62.5,DLive,48,45,Trial,2022
+P587,France,Steam,Puzzle,46+,145.14,40.0,Caffeine,959,84,Free,2023
+P588,Italy,Console,Adventure,36-45,99.83,39.7,Twitch,19,47,Free,2021
+P589,South Korea,Console,Music,26-35,141.9,37.8,Mixer,762,40,Premium,2020
+P590,Egypt,PlayStation,Adventure,26-35,17.15,88.9,Mixer,81,16,In-App Purchases,2019
+P591,Mexico,Epic Games Store,Adventure,46+,48.85,60.3,Caffeine,718,95,Trial,2021
+P592,Italy,Mobile,Simulation,36-45,110.98,95.4,Nimo TV,145,25,Trial,2022
+P593,Japan,Mobile,Simulation,19-25,25.69,27.9,Facebook Gaming,776,62,Trial,2019
+P594,South Korea,Epic Games Store,RPG,26-35,43.48,21.5,YouTube Gaming,882,61,Free,2022
+P595,Brazil,Laptop,MOBA,13-18,32.82,33.4,Mixer,139,35,Premium,2022
+P596,Europe,PlayStation,Idle,36-45,64.03,24.1,Facebook Gaming,989,23,Free,2024
+P597,Brazil,Mobile,Battle Royale,36-45,84.3,25.2,Mixer,951,50,Premium,2021
+P598,Australia,Console,Battle Royale,36-45,83.29,15.9,Vimeo,523,71,Trial,2021
+P599,Nigeria,Xbox,Battle Royale,13-18,109.05,82.6,YouTube Gaming,377,68,Trial,2020
+P600,Japan,Console,Cooking,13-18,7.05,64.8,Twitch,707,83,Free,2020
+P601,Argentina,VR,Battle Royale,13-18,8.33,44.9,Facebook Gaming,855,12,Free,2022
+P602,Russia,Console,Fighting,46+,35.0,36.7,Trovo,827,96,Premium,2021
+P603,Germany,Steam,Puzzle,36-45,66.36,18.4,DLive,293,61,In-App Purchases,2023
+P604,Germany,Mobile,Sports,46+,141.79,29.5,Vimeo,939,92,In-App Purchases,2019
+P605,Brazil,Laptop,Puzzle,36-45,81.75,99.4,DLive,870,94,Trial,2021
+P606,France,Laptop,Horror,46+,137.93,64.7,Trovo,866,97,Premium,2023
+P607,Russia,Tablet,Horror,46+,37.97,113.4,DLive,775,68,Premium,2022
+P608,France,Console,Sports,46+,121.4,26.4,Facebook Gaming,693,42,Premium,2024
+P609,Canada,Xbox,Battle Royale,46+,96.26,42.9,Vimeo,863,60,Premium,2022
+P610,Italy,Epic Games Store,MOBA,19-25,70.2,13.7,Facebook Gaming,34,95,Free,2022
+P611,Italy,Steam,Music,36-45,88.04,21.6,Twitch,766,23,Trial,2019
+P612,Nigeria,Epic Games Store,Idle,36-45,103.45,62.6,Caffeine,455,32,Trial,2024
+P613,Russia,Steam,Strategy,36-45,97.62,98.9,Vimeo,123,71,Trial,2020
+P614,South Africa,PlayStation,Educational,13-18,40.7,86.8,Trovo,38,39,In-App Purchases,2024
+P615,France,Xbox,Fighting,46+,23.93,112.7,Mixer,148,35,Free,2021
+P616,Egypt,Epic Games Store,Puzzle,26-35,74.05,42.6,Nimo TV,303,38,In-App Purchases,2019
+P617,USA,Smartphone,Music,19-25,106.92,94.7,Caffeine,976,100,In-App Purchases,2022
+P618,Russia,Epic Games Store,MOBA,26-35,116.01,112.6,Twitch,655,56,Trial,2020
+P619,Mexico,Steam,RPG,19-25,128.4,54.9,Mixer,554,39,In-App Purchases,2021
+P620,Europe,Smartphone,Puzzle,36-45,55.19,79.8,Nimo TV,562,56,In-App Purchases,2021
+P621,India,Laptop,FPS,19-25,44.88,118.8,Nimo TV,230,42,In-App Purchases,2019
+P622,Europe,Laptop,Educational,26-35,89.82,88.9,DLive,55,100,Premium,2023
+P623,India,Epic Games Store,Strategy,26-35,121.52,20.9,Vimeo,173,95,Free,2022
+P624,Egypt,Console,FPS,26-35,35.54,75.1,Mixer,491,22,In-App Purchases,2022
+P625,Italy,Xbox,Battle Royale,19-25,101.27,116.5,Caffeine,502,60,Trial,2023
+P626,Canada,Xbox,Horror,36-45,122.91,92.7,YouTube Gaming,934,73,Trial,2019
+P627,South Africa,Mobile,Strategy,19-25,136.63,11.8,Mixer,653,92,In-App Purchases,2021
+P628,USA,Steam,Battle Royale,26-35,13.96,42.6,Facebook Gaming,301,74,In-App Purchases,2024
+P629,South Korea,Console,Simulation,13-18,77.55,109.0,Vimeo,834,73,Free,2020
+P630,South Africa,PC,RPG,26-35,16.26,40.3,Facebook Gaming,894,15,Premium,2019
+P631,Japan,Xbox,Music,46+,32.58,29.5,Twitch,239,51,Trial,2022
+P632,Egypt,Xbox,Fighting,36-45,135.29,22.0,Twitch,936,75,Trial,2024
+P633,China,Console,Horror,26-35,9.57,66.6,Trovo,314,3,Trial,2020
+P634,UK,Epic Games Store,Cooking,19-25,144.13,70.7,Caffeine,910,29,Free,2023
+P635,Australia,Xbox,Horror,46+,41.24,75.4,Caffeine,978,84,In-App Purchases,2019
+P636,Mexico,Console,FPS,13-18,88.55,80.8,Vimeo,901,19,Trial,2019
+P637,South Korea,Tablet,MOBA,36-45,114.17,31.3,DLive,700,33,Premium,2024
+P638,Indonesia,Console,Sports,36-45,105.21,69.2,YouTube Gaming,892,35,In-App Purchases,2021
+P639,France,Xbox,Simulation,26-35,3.89,19.0,Mixer,67,100,Trial,2022
+P640,Russia,Steam,Idle,19-25,102.69,50.2,Trovo,218,88,Free,2024
+P641,UK,Nintendo Switch,Cooking,36-45,31.84,47.9,YouTube Gaming,776,97,In-App Purchases,2020
+P642,Mexico,Nintendo Switch,Fighting,19-25,126.55,112.4,DLive,462,70,Premium,2023
+P643,France,PC,MOBA,36-45,23.68,97.2,Nimo TV,271,12,Trial,2021
+P644,Indonesia,Tablet,Educational,26-35,149.75,17.3,Facebook Gaming,795,3,Premium,2022
+P645,France,Xbox,FPS,26-35,49.97,50.9,Vimeo,844,17,Premium,2020
+P646,Russia,Laptop,Cooking,46+,117.06,17.4,Nimo TV,359,38,Free,2022
+P647,India,Nintendo Switch,Horror,13-18,136.75,88.6,Trovo,576,65,Free,2020
+P648,South Korea,Laptop,Simulation,19-25,0.02,88.2,Mixer,863,45,Trial,2022
+P649,Argentina,Tablet,Cooking,46+,48.57,52.3,Trovo,631,52,Trial,2019
+P650,Brazil,Laptop,Adventure,13-18,14.32,100.4,Nimo TV,445,42,Free,2024
+P651,UK,VR,Music,19-25,117.34,64.3,DLive,453,47,In-App Purchases,2022
+P652,Indonesia,Nintendo Switch,Battle Royale,13-18,104.53,23.5,Nimo TV,633,22,In-App Purchases,2019
+P653,Egypt,Epic Games Store,Cooking,46+,78.04,35.9,Trovo,359,95,Trial,2023
+P654,Russia,Steam,Horror,36-45,124.71,95.5,YouTube Gaming,851,78,Premium,2020
+P655,Egypt,Epic Games Store,Strategy,19-25,50.11,102.2,DLive,648,78,In-App Purchases,2020
+P656,China,PC,Simulation,46+,71.23,47.3,Trovo,184,16,Free,2020
+P657,Germany,Console,Educational,13-18,101.24,46.4,Nimo TV,270,6,In-App Purchases,2023
+P658,South Korea,Console,Idle,19-25,43.24,39.9,Trovo,946,41,In-App Purchases,2021
+P659,Italy,Xbox,Fighting,36-45,105.46,39.7,Nimo TV,576,4,Trial,2024
+P660,UK,Tablet,Simulation,19-25,139.87,55.0,Caffeine,161,12,Trial,2019
+P661,Japan,PlayStation,FPS,13-18,141.78,56.4,Mixer,861,27,In-App Purchases,2024
+P662,Germany,Xbox,Sports,26-35,105.44,46.3,Vimeo,688,23,Trial,2021
+P663,UK,Xbox,Music,26-35,16.1,118.8,Trovo,784,86,Premium,2023
+P664,Nigeria,Epic Games Store,Fighting,36-45,103.69,84.6,Mixer,564,51,In-App Purchases,2022
+P665,Egypt,Tablet,Adventure,46+,90.06,49.2,Caffeine,7,8,Trial,2021
+P666,UK,Nintendo Switch,MOBA,13-18,116.74,105.3,Facebook Gaming,800,77,Premium,2021
+P667,India,Console,Horror,26-35,108.93,14.5,Nimo TV,901,96,In-App Purchases,2021
+P668,Brazil,Xbox,Strategy,46+,7.41,54.3,Caffeine,50,64,Premium,2021
+P669,South Africa,Xbox,Battle Royale,26-35,49.45,48.8,DLive,983,48,In-App Purchases,2019
+P670,China,Console,Cooking,36-45,139.72,54.2,DLive,668,33,In-App Purchases,2020
+P671,South Korea,Xbox,Fighting,46+,87.97,59.2,YouTube Gaming,685,16,Trial,2021
+P672,Argentina,Xbox,Simulation,46+,2.46,26.8,Twitch,70,8,Trial,2020
+P673,India,PC,Battle Royale,26-35,63.57,36.9,Mixer,142,57,In-App Purchases,2021
+P674,China,Mobile,Fighting,36-45,36.65,10.5,Caffeine,361,54,In-App Purchases,2020
+P675,India,Mobile,Cooking,19-25,144.38,106.2,Twitch,606,65,In-App Purchases,2021
+P676,Brazil,Console,Fighting,19-25,37.78,17.5,Twitch,721,51,Premium,2020
+P677,South Africa,Epic Games Store,Horror,36-45,60.94,68.2,Nimo TV,938,25,Premium,2019
+P678,Europe,Xbox,Horror,19-25,43.49,27.7,Caffeine,954,12,Trial,2019
+P679,Europe,Mobile,Simulation,19-25,31.66,71.2,DLive,823,15,In-App Purchases,2024
+P680,Japan,Console,Music,19-25,111.58,24.0,Mixer,255,57,Free,2021
+P681,Russia,Epic Games Store,Fighting,26-35,146.48,58.1,YouTube Gaming,802,68,In-App Purchases,2022
+P682,Canada,Console,Cooking,13-18,45.39,11.2,Twitch,948,14,Free,2019
+P683,Brazil,Mobile,Sports,36-45,81.09,54.1,Mixer,914,65,Premium,2021
+P684,USA,Epic Games Store,Battle Royale,19-25,137.73,13.3,Facebook Gaming,863,35,Free,2022
+P685,South Africa,Tablet,FPS,36-45,136.85,70.8,Caffeine,90,82,Trial,2019
+P686,Italy,Laptop,Music,19-25,21.99,78.9,YouTube Gaming,44,68,Trial,2024
+P687,South Korea,Steam,RPG,19-25,51.88,66.1,DLive,833,28,Free,2021
+P688,Australia,Xbox,Strategy,13-18,7.56,65.8,Twitch,132,24,Trial,2021
+P689,China,Laptop,Sports,46+,132.31,25.3,Mixer,285,10,Trial,2021
+P690,Indonesia,Console,Strategy,46+,121.73,84.7,YouTube Gaming,350,70,Premium,2023
+P691,South Korea,PlayStation,Idle,36-45,36.93,85.8,Facebook Gaming,509,7,In-App Purchases,2020
+P692,Egypt,Smartphone,Fighting,19-25,56.88,18.4,Vimeo,431,68,Free,2022
+P693,South Korea,PC,Horror,13-18,61.17,32.2,Twitch,439,89,Free,2019
+P694,Indonesia,PC,Educational,36-45,127.76,87.5,YouTube Gaming,958,68,Trial,2019
+P695,Nigeria,Console,Puzzle,26-35,98.04,92.4,Trovo,391,3,Trial,2022
+P696,China,Epic Games Store,Adventure,46+,117.08,72.7,Trovo,15,32,Premium,2023
+P697,UK,VR,Music,46+,113.96,43.8,Caffeine,661,85,Premium,2020
+P698,Canada,Nintendo Switch,Horror,36-45,23.22,103.1,DLive,688,22,In-App Purchases,2024
+P699,Australia,Mobile,Idle,19-25,92.7,82.1,Twitch,653,43,In-App Purchases,2019
+P700,Canada,Laptop,Cooking,36-45,39.44,19.2,Vimeo,903,12,Trial,2023
+P701,USA,VR,Battle Royale,46+,113.92,53.0,Facebook Gaming,636,88,In-App Purchases,2021
+P702,Egypt,Console,Strategy,13-18,58.32,107.6,DLive,798,72,Trial,2020
+P703,South Korea,Xbox,RPG,46+,74.59,14.6,Trovo,823,55,Premium,2022
+P704,Germany,Smartphone,Educational,13-18,101.5,35.5,Mixer,301,68,In-App Purchases,2020
+P705,Egypt,Xbox,FPS,13-18,114.23,35.6,Caffeine,909,84,In-App Purchases,2019
+P706,USA,VR,Horror,36-45,143.17,76.0,Vimeo,681,85,In-App Purchases,2020
+P707,South Africa,Nintendo Switch,Horror,36-45,71.16,63.9,Nimo TV,347,93,Free,2021
+P708,Germany,VR,Sports,26-35,27.51,48.3,DLive,871,50,Trial,2023
+P709,UK,Xbox,Music,19-25,105.32,100.2,Facebook Gaming,877,68,Trial,2024
+P710,Japan,Smartphone,RPG,36-45,20.0,32.3,Caffeine,276,47,Premium,2020
+P711,Indonesia,Tablet,Adventure,36-45,63.71,65.6,Vimeo,92,14,In-App Purchases,2020
+P712,Japan,Tablet,Music,13-18,82.55,96.1,Trovo,828,9,Free,2022
+P713,Egypt,Console,Puzzle,26-35,2.13,35.1,Caffeine,160,70,In-App Purchases,2019
+P714,France,Smartphone,MOBA,19-25,69.16,102.6,Caffeine,242,42,Trial,2023
+P715,Russia,Steam,MOBA,36-45,108.51,116.8,DLive,44,99,Trial,2024
+P716,Australia,Epic Games Store,Puzzle,46+,96.36,30.0,Trovo,428,98,Trial,2021
+P717,Nigeria,Mobile,Music,13-18,94.82,11.2,Vimeo,640,21,Premium,2023
+P718,Argentina,PC,Strategy,13-18,135.17,66.9,Caffeine,296,80,Premium,2024
+P719,Nigeria,Nintendo Switch,Strategy,46+,140.18,63.4,Mixer,802,82,In-App Purchases,2020
+P720,France,Xbox,Educational,13-18,148.93,80.5,Caffeine,452,94,Free,2019
+P721,South Africa,Mobile,Strategy,13-18,72.77,109.2,DLive,339,47,Trial,2020
+P722,Egypt,Smartphone,Cooking,46+,61.65,50.6,Nimo TV,244,94,Free,2019
+P723,USA,Steam,Cooking,19-25,125.16,119.8,Nimo TV,886,67,Free,2022
+P724,Nigeria,Console,Sports,26-35,35.43,116.7,DLive,778,26,Free,2021
+P725,Nigeria,Laptop,MOBA,46+,19.6,84.8,Caffeine,645,38,Trial,2021
+P726,South Korea,Steam,Sports,26-35,116.74,61.6,YouTube Gaming,101,34,Free,2023
+P727,Europe,Mobile,Puzzle,36-45,73.25,119.3,Twitch,946,43,In-App Purchases,2023
+P728,Germany,Epic Games Store,Music,19-25,74.85,36.4,Vimeo,540,4,Free,2023
+P729,South Africa,Laptop,Sports,13-18,107.36,38.0,Mixer,426,15,Premium,2024
+P730,Mexico,PlayStation,Cooking,19-25,52.07,102.8,DLive,923,23,Trial,2022
+P731,Germany,Xbox,Puzzle,36-45,58.62,63.9,YouTube Gaming,735,9,Free,2019
+P732,USA,VR,Horror,36-45,31.04,20.0,Caffeine,304,95,In-App Purchases,2020
+P733,USA,Console,Music,36-45,97.15,38.9,YouTube Gaming,991,57,Free,2023
+P734,Russia,Steam,Idle,26-35,42.37,114.6,Vimeo,240,100,In-App Purchases,2024
+P735,Japan,Mobile,Battle Royale,46+,103.27,49.5,Caffeine,103,8,Premium,2021
+P736,Canada,Mobile,Fighting,26-35,37.41,72.2,Nimo TV,176,7,In-App Purchases,2022
+P737,Nigeria,Nintendo Switch,Cooking,26-35,127.57,68.3,YouTube Gaming,68,74,Trial,2020
+P738,Russia,Laptop,Battle Royale,46+,88.69,98.9,Trovo,631,87,In-App Purchases,2021
+P739,Canada,Epic Games Store,Puzzle,26-35,39.22,85.6,Mixer,749,11,Trial,2021
+P740,Argentina,Epic Games Store,Adventure,36-45,132.27,47.7,Caffeine,537,49,In-App Purchases,2022
+P741,Nigeria,Mobile,Horror,19-25,110.42,46.5,Vimeo,555,19,Premium,2019
+P742,Germany,Mobile,FPS,36-45,74.5,10.3,DLive,262,70,Premium,2021
+P743,Germany,Xbox,RPG,19-25,24.38,57.3,Trovo,968,100,Free,2023
+P744,Egypt,Steam,Puzzle,36-45,94.33,43.2,DLive,667,31,Trial,2020
+P745,China,Epic Games Store,Battle Royale,19-25,62.71,29.6,Nimo TV,441,50,Free,2022
+P746,Europe,Epic Games Store,Cooking,19-25,80.21,48.7,DLive,346,5,In-App Purchases,2023
+P747,Canada,Tablet,Horror,46+,90.52,45.1,DLive,259,98,Premium,2023
+P748,Mexico,Epic Games Store,RPG,36-45,130.88,32.9,Nimo TV,387,98,Premium,2024
+P749,Nigeria,PC,FPS,46+,23.6,30.1,Facebook Gaming,73,61,Free,2023
+P750,Australia,Nintendo Switch,Battle Royale,26-35,4.26,72.8,Facebook Gaming,752,67,Free,2019
+P751,Argentina,Tablet,Puzzle,36-45,79.83,78.3,Nimo TV,580,6,Premium,2024
+P752,Russia,VR,Adventure,19-25,44.3,32.5,Twitch,891,54,Free,2019
+P753,Indonesia,Console,Idle,26-35,96.99,78.3,YouTube Gaming,323,33,Free,2021
+P754,Japan,VR,Puzzle,13-18,138.33,97.2,Nimo TV,726,36,Trial,2022
+P755,UK,Mobile,Educational,36-45,52.73,45.8,YouTube Gaming,913,49,Premium,2019
+P756,UK,Tablet,Simulation,19-25,18.87,41.7,Nimo TV,254,34,Free,2023
+P757,Nigeria,Xbox,Battle Royale,46+,111.55,81.2,Mixer,180,81,Premium,2019
+P758,South Korea,Steam,Educational,46+,26.11,115.7,Vimeo,551,66,Free,2020
+P759,USA,PC,Idle,36-45,109.17,106.0,Twitch,754,53,Free,2019
+P760,Canada,Tablet,Adventure,46+,54.57,71.5,Nimo TV,346,65,Trial,2023
+P761,Indonesia,Laptop,Horror,19-25,149.08,56.4,Caffeine,79,52,Premium,2023
+P762,Europe,Console,Simulation,46+,61.99,81.8,Twitch,146,67,Free,2023
+P763,Germany,Steam,FPS,46+,46.7,92.3,Twitch,647,70,In-App Purchases,2021
+P764,Egypt,PlayStation,Simulation,13-18,73.11,57.7,Vimeo,466,100,Trial,2023
+P765,Argentina,PlayStation,Simulation,19-25,97.76,113.9,Nimo TV,159,1,In-App Purchases,2023
+P766,Australia,Mobile,Idle,26-35,129.64,29.7,Facebook Gaming,126,36,In-App Purchases,2020
+P767,UK,Nintendo Switch,RPG,26-35,80.25,118.9,Twitch,457,61,Free,2020
+P768,Argentina,PC,RPG,13-18,95.24,82.2,Mixer,23,11,Trial,2019
+P769,Indonesia,PC,Horror,26-35,21.03,76.3,YouTube Gaming,982,13,Trial,2019
+P770,Europe,VR,Sports,26-35,100.51,44.3,YouTube Gaming,990,42,In-App Purchases,2023
+P771,UK,PlayStation,Puzzle,36-45,92.75,75.5,Nimo TV,880,14,Premium,2021
+P772,Canada,Laptop,Strategy,36-45,68.02,113.3,DLive,263,89,Free,2022
+P773,South Korea,Mobile,Educational,46+,54.8,99.9,YouTube Gaming,543,84,Trial,2021
+P774,Indonesia,PC,Music,46+,89.1,23.7,Nimo TV,715,87,In-App Purchases,2020
+P775,Egypt,Laptop,Cooking,26-35,109.32,16.7,Mixer,726,29,Premium,2021
+P776,India,PC,Educational,19-25,9.43,68.6,Twitch,53,70,Free,2021
+P777,Mexico,Mobile,Idle,26-35,129.51,115.8,Nimo TV,85,38,Trial,2020
+P778,France,PlayStation,Music,36-45,4.94,47.2,Caffeine,578,54,Premium,2022
+P779,Nigeria,Console,RPG,13-18,34.37,97.7,YouTube Gaming,797,83,Premium,2019
+P780,Argentina,Nintendo Switch,Puzzle,26-35,106.95,85.9,YouTube Gaming,659,67,Trial,2023
+P781,Russia,VR,Music,46+,113.06,98.9,Nimo TV,150,56,Premium,2020
+P782,Brazil,PlayStation,Educational,19-25,97.65,26.4,Vimeo,987,14,Trial,2024
+P783,Europe,Console,Fighting,36-45,147.78,71.7,Facebook Gaming,149,69,Premium,2019
+P784,Egypt,VR,Idle,13-18,65.34,50.3,Facebook Gaming,749,47,Trial,2020
+P785,Brazil,Mobile,Adventure,13-18,75.75,43.7,Caffeine,624,17,Free,2021
+P786,Europe,Console,Puzzle,19-25,93.59,38.3,Nimo TV,954,65,Free,2024
+P787,Germany,VR,Adventure,26-35,66.54,69.0,Trovo,824,13,Free,2024
+P788,Nigeria,Epic Games Store,Strategy,13-18,86.06,14.5,Vimeo,147,7,Trial,2024
+P789,China,Steam,Idle,19-25,49.01,30.6,YouTube Gaming,689,79,Free,2024
+P790,France,Nintendo Switch,Sports,26-35,15.43,64.5,Mixer,370,24,Free,2023
+P791,Nigeria,Mobile,Battle Royale,36-45,1.58,10.4,Twitch,72,82,Trial,2024
+P792,China,Xbox,Idle,46+,76.81,37.1,Mixer,53,73,Trial,2022
+P793,Nigeria,VR,Puzzle,46+,100.68,41.4,DLive,379,44,Free,2023
+P794,Russia,Xbox,Idle,36-45,112.29,99.2,Nimo TV,731,53,Trial,2021
+P795,Japan,PC,Battle Royale,46+,72.54,34.4,YouTube Gaming,340,95,Trial,2024
+P796,South Korea,Smartphone,Adventure,46+,47.15,61.3,Facebook Gaming,826,51,In-App Purchases,2020
+P797,Argentina,Steam,Sports,26-35,22.33,96.3,Vimeo,703,70,Free,2022
+P798,Europe,Steam,Sports,46+,83.86,97.4,YouTube Gaming,954,47,Free,2020
+P799,Egypt,PlayStation,Educational,13-18,138.7,47.1,DLive,11,5,Trial,2023
+P800,Mexico,Smartphone,Adventure,13-18,50.81,45.4,Facebook Gaming,367,30,Free,2019
+P801,Germany,Nintendo Switch,Adventure,26-35,140.02,69.2,Twitch,162,41,Premium,2020
+P802,France,Console,RPG,19-25,5.91,29.7,Mixer,29,16,Trial,2019
+P803,Russia,PlayStation,Cooking,46+,54.74,15.9,Vimeo,358,66,In-App Purchases,2023
+P804,Nigeria,PlayStation,Cooking,36-45,64.36,58.0,Facebook Gaming,917,95,In-App Purchases,2022
+P805,UK,Steam,Puzzle,46+,143.78,49.1,Caffeine,737,69,In-App Purchases,2021
+P806,Italy,Console,Cooking,36-45,143.25,40.9,Mixer,96,92,Free,2020
+P807,Argentina,Laptop,FPS,46+,5.43,25.7,Trovo,128,10,In-App Purchases,2023
+P808,India,VR,Horror,13-18,110.81,30.3,DLive,182,11,Premium,2023
+P809,Russia,Smartphone,Battle Royale,46+,61.7,103.8,Mixer,73,9,In-App Purchases,2022
+P810,Australia,Xbox,Idle,46+,54.82,26.1,Mixer,901,64,Premium,2023
+P811,Egypt,Nintendo Switch,Strategy,36-45,124.1,60.0,YouTube Gaming,233,39,Trial,2024
+P812,USA,Smartphone,MOBA,19-25,31.43,67.1,Mixer,436,71,Trial,2021
+P813,UK,Nintendo Switch,Simulation,36-45,54.25,11.5,DLive,886,29,Trial,2021
+P814,Nigeria,Console,Battle Royale,46+,111.26,54.1,YouTube Gaming,308,73,Free,2021
+P815,France,Xbox,Educational,13-18,97.98,76.6,Nimo TV,893,99,Free,2022
+P816,Germany,Xbox,Educational,36-45,29.47,29.2,Vimeo,509,55,In-App Purchases,2024
+P817,Indonesia,Mobile,MOBA,13-18,49.57,86.1,Nimo TV,868,3,Trial,2021
+P818,Egypt,PC,Battle Royale,36-45,92.34,106.5,Mixer,902,100,In-App Purchases,2024
+P819,Canada,Epic Games Store,RPG,36-45,40.1,118.4,DLive,950,59,Premium,2021
+P820,France,PC,Strategy,13-18,69.29,74.9,Vimeo,627,90,Trial,2023
+P821,Argentina,Smartphone,MOBA,36-45,142.43,13.0,Caffeine,703,55,Premium,2024
+P822,Italy,PlayStation,Puzzle,13-18,106.84,60.0,Caffeine,715,10,Trial,2023
+P823,Italy,Tablet,Sports,13-18,46.69,101.5,YouTube Gaming,395,42,Premium,2022
+P824,Nigeria,Xbox,Music,46+,31.44,72.4,Mixer,310,46,Free,2024
+P825,Canada,PlayStation,Adventure,26-35,36.04,108.7,DLive,956,83,Free,2023
+P826,Canada,Xbox,Strategy,13-18,25.34,69.0,Nimo TV,199,71,Trial,2021
+P827,South Africa,Steam,FPS,13-18,68.86,96.2,Trovo,314,41,Free,2022
+P828,Egypt,Laptop,Simulation,36-45,94.09,42.5,Nimo TV,54,48,Trial,2020
+P829,UK,Tablet,Battle Royale,26-35,127.84,72.8,Nimo TV,45,63,Trial,2022
+P830,France,Laptop,Music,36-45,17.08,49.6,Twitch,425,56,Trial,2019
+P831,Indonesia,Mobile,MOBA,36-45,128.91,18.5,Caffeine,33,27,Trial,2019
+P832,South Africa,Laptop,Idle,36-45,0.05,117.7,Trovo,783,58,In-App Purchases,2019
+P833,Australia,Nintendo Switch,Battle Royale,19-25,7.11,29.2,YouTube Gaming,925,66,Free,2019
+P834,Canada,Console,Idle,46+,58.7,96.4,Facebook Gaming,288,43,In-App Purchases,2021
+P835,Indonesia,Console,Adventure,13-18,7.23,14.2,Trovo,552,82,Premium,2023
+P836,India,PlayStation,Music,26-35,87.23,51.2,Trovo,714,4,Free,2023
+P837,Italy,Xbox,Puzzle,19-25,42.72,118.5,Twitch,490,94,Free,2021
+P838,UK,Smartphone,Sports,36-45,147.13,109.4,YouTube Gaming,264,2,Premium,2021
+P839,Canada,Tablet,MOBA,19-25,68.97,51.3,Facebook Gaming,17,44,In-App Purchases,2023
+P840,India,Laptop,Educational,46+,147.06,46.3,Nimo TV,166,78,Free,2022
+P841,Mexico,VR,Simulation,36-45,105.04,52.7,Vimeo,338,9,Premium,2023
+P842,Germany,Console,MOBA,13-18,118.86,97.0,Mixer,474,54,Premium,2023
+P843,USA,Mobile,Simulation,26-35,88.31,77.5,Twitch,554,15,Premium,2020
+P844,UK,Steam,Simulation,13-18,33.56,76.6,YouTube Gaming,119,47,Trial,2021
+P845,Indonesia,Smartphone,Idle,46+,7.36,112.5,YouTube Gaming,394,87,In-App Purchases,2020
+P846,India,Epic Games Store,Fighting,46+,29.75,91.5,Caffeine,45,15,Free,2023
+P847,Germany,Tablet,Simulation,36-45,146.23,81.1,YouTube Gaming,65,20,Free,2019
+P848,Indonesia,PC,Cooking,46+,142.3,60.7,YouTube Gaming,509,4,Trial,2021
+P849,Europe,Smartphone,Music,26-35,66.41,86.5,DLive,12,48,Free,2022
+P850,Nigeria,Laptop,Cooking,46+,115.34,111.9,Twitch,945,69,Premium,2019
+P851,Egypt,PC,Sports,46+,1.23,116.1,DLive,172,7,Premium,2022
+P852,Nigeria,Mobile,Simulation,26-35,39.75,55.0,DLive,629,82,Premium,2024
+P853,Argentina,VR,RPG,26-35,100.11,68.4,Facebook Gaming,774,39,Free,2019
+P854,USA,Tablet,MOBA,36-45,88.99,72.6,Trovo,279,51,In-App Purchases,2023
+P855,USA,Mobile,Adventure,36-45,2.81,58.6,Trovo,979,4,Trial,2020
+P856,India,Steam,Horror,26-35,137.78,64.4,Trovo,850,68,In-App Purchases,2020
+P857,Italy,PlayStation,Puzzle,46+,128.25,99.0,Twitch,180,14,Premium,2019
+P858,South Korea,Tablet,Simulation,46+,20.74,83.3,Vimeo,362,3,Free,2022
+P859,Nigeria,VR,Battle Royale,46+,67.47,11.3,Facebook Gaming,875,72,Trial,2019
+P860,Brazil,Tablet,Educational,19-25,55.41,23.4,Vimeo,816,27,Premium,2021
+P861,Indonesia,Mobile,Strategy,26-35,55.34,22.5,YouTube Gaming,456,93,Trial,2022
+P862,China,Xbox,Music,19-25,145.6,79.0,DLive,424,23,In-App Purchases,2024
+P863,USA,Nintendo Switch,Idle,46+,24.1,106.5,Caffeine,721,19,Premium,2021
+P864,Brazil,VR,Music,19-25,68.49,87.0,Caffeine,109,39,Trial,2020
+P865,France,Laptop,Cooking,26-35,13.8,96.5,Nimo TV,132,79,In-App Purchases,2023
+P866,Argentina,Laptop,MOBA,36-45,25.12,20.0,YouTube Gaming,995,83,Trial,2021
+P867,Australia,Epic Games Store,Battle Royale,19-25,33.92,11.3,YouTube Gaming,319,63,Free,2023
+P868,Brazil,PlayStation,Educational,46+,84.51,117.5,Nimo TV,620,88,Free,2022
+P869,Japan,Mobile,Sports,26-35,18.66,112.3,Facebook Gaming,8,61,In-App Purchases,2019
+P870,Indonesia,Xbox,Fighting,46+,19.26,42.7,YouTube Gaming,849,81,Trial,2021
+P871,USA,PlayStation,Cooking,36-45,4.01,71.7,Mixer,391,71,In-App Purchases,2020
+P872,Argentina,PlayStation,Battle Royale,36-45,30.43,56.4,YouTube Gaming,633,24,In-App Purchases,2022
+P873,Germany,VR,Strategy,36-45,113.96,101.6,Vimeo,417,55,Trial,2021
+P874,India,Tablet,Idle,36-45,33.34,10.4,Nimo TV,216,35,Free,2021
+P875,South Korea,Epic Games Store,Sports,19-25,38.43,36.1,DLive,563,28,Premium,2023
+P876,Australia,Console,Simulation,46+,7.72,75.9,Caffeine,51,37,Trial,2020
+P877,Europe,VR,Cooking,26-35,111.59,82.5,DLive,742,66,Trial,2024
+P878,Germany,Nintendo Switch,Puzzle,46+,68.97,43.7,Vimeo,406,28,Free,2021
+P879,South Korea,PlayStation,Adventure,46+,97.97,84.5,Twitch,112,36,Trial,2022
+P880,Egypt,Smartphone,Music,26-35,18.22,58.6,Facebook Gaming,773,59,Trial,2021
+P881,Germany,Tablet,Cooking,36-45,26.59,119.1,Mixer,299,86,Trial,2024
+P882,Indonesia,PlayStation,Horror,13-18,73.9,46.7,Trovo,252,20,Trial,2020
+P883,Indonesia,Smartphone,Strategy,46+,129.7,34.2,Mixer,898,95,Premium,2023
+P884,Germany,Nintendo Switch,Cooking,13-18,88.43,39.2,Nimo TV,153,62,Free,2022
+P885,Italy,Epic Games Store,Battle Royale,26-35,50.9,26.1,Facebook Gaming,231,13,Trial,2019
+P886,Europe,PC,Strategy,13-18,101.21,77.4,Mixer,842,36,In-App Purchases,2020
+P887,Argentina,Laptop,Fighting,26-35,59.42,14.3,Trovo,674,21,Trial,2023
+P888,Brazil,Tablet,Cooking,13-18,117.78,58.1,Twitch,973,88,Premium,2019
+P889,Russia,Xbox,MOBA,26-35,16.0,71.5,Nimo TV,279,95,Trial,2020
+P890,South Africa,Laptop,Horror,26-35,5.69,96.9,Vimeo,832,18,Premium,2019
+P891,USA,Tablet,Cooking,46+,74.56,48.6,Caffeine,976,14,Trial,2024
+P892,France,Nintendo Switch,Puzzle,26-35,127.0,112.8,Twitch,639,17,Free,2020
+P893,UK,Xbox,RPG,46+,149.06,76.3,Caffeine,214,62,Trial,2020
+P894,UK,PlayStation,Fighting,46+,122.08,38.3,Vimeo,222,66,Free,2021
+P895,Italy,PlayStation,Cooking,13-18,12.22,103.1,Trovo,324,18,In-App Purchases,2020
+P896,Germany,Steam,Simulation,26-35,107.37,60.8,Nimo TV,203,67,Premium,2020
+P897,Mexico,PlayStation,Adventure,46+,21.0,49.5,YouTube Gaming,968,8,Premium,2024
+P898,Australia,Epic Games Store,Simulation,13-18,24.36,61.0,YouTube Gaming,1000,93,In-App Purchases,2019
+P899,China,Smartphone,Cooking,19-25,147.77,66.6,Caffeine,900,38,Premium,2019
+P900,Argentina,Mobile,Strategy,46+,20.49,14.1,Vimeo,503,74,In-App Purchases,2022
+P901,South Korea,VR,Fighting,13-18,101.36,30.8,YouTube Gaming,190,57,Free,2024
+P902,Argentina,VR,Battle Royale,36-45,101.19,54.3,Facebook Gaming,887,93,Trial,2022
+P903,South Africa,Xbox,RPG,13-18,73.15,60.6,Nimo TV,220,2,Trial,2019
+P904,Mexico,Tablet,MOBA,36-45,9.68,105.0,Twitch,50,24,Trial,2024
+P905,Argentina,PlayStation,Idle,19-25,108.02,47.0,DLive,45,100,Trial,2020
+P906,France,Tablet,Educational,13-18,59.7,113.8,Vimeo,759,72,In-App Purchases,2020
+P907,Germany,Mobile,Puzzle,19-25,34.74,103.1,DLive,730,27,Premium,2021
+P908,USA,Steam,Simulation,46+,9.26,97.5,Trovo,402,39,Free,2024
+P909,Egypt,Epic Games Store,Idle,13-18,78.47,15.4,Mixer,525,88,Premium,2020
+P910,South Africa,PC,Strategy,46+,92.91,60.3,DLive,379,10,In-App Purchases,2019
+P911,Europe,PC,Sports,26-35,105.56,102.6,Twitch,57,16,Trial,2024
+P912,Russia,Nintendo Switch,Adventure,13-18,75.11,51.9,Twitch,537,49,Premium,2021
+P913,Germany,Smartphone,Adventure,26-35,148.65,55.7,YouTube Gaming,657,95,Trial,2021
+P914,China,Console,Fighting,26-35,91.8,105.6,Nimo TV,422,12,Free,2023
+P915,USA,Nintendo Switch,Puzzle,46+,131.99,50.0,DLive,533,64,Free,2023
+P916,South Africa,Smartphone,Fighting,46+,113.53,75.0,DLive,958,88,Free,2019
+P917,Australia,VR,FPS,13-18,12.42,93.1,Twitch,13,45,In-App Purchases,2022
+P918,Japan,Steam,MOBA,26-35,35.86,107.7,Facebook Gaming,45,1,Trial,2021
+P919,Russia,Console,Puzzle,26-35,48.86,57.9,Vimeo,281,44,Free,2022
+P920,India,PlayStation,FPS,13-18,83.28,22.2,Nimo TV,239,44,Premium,2022
+P921,South Korea,Tablet,Battle Royale,46+,77.03,54.7,Vimeo,167,90,Premium,2022
+P922,Indonesia,Nintendo Switch,Fighting,13-18,36.24,30.5,Trovo,798,90,Free,2019
+P923,Argentina,PC,Adventure,26-35,18.25,108.3,Facebook Gaming,311,8,In-App Purchases,2023
+P924,South Africa,Xbox,Strategy,19-25,45.13,22.2,Facebook Gaming,629,53,In-App Purchases,2021
+P925,Russia,Tablet,Idle,46+,88.84,53.7,Facebook Gaming,2,81,Premium,2019
+P926,Mexico,Console,Fighting,19-25,77.81,85.3,Caffeine,512,15,Premium,2019
+P927,Germany,PlayStation,Horror,26-35,31.69,54.9,Vimeo,107,91,Free,2021
+P928,China,PlayStation,Fighting,36-45,9.39,25.4,Facebook Gaming,216,1,Free,2022
+P929,USA,Laptop,Horror,19-25,10.99,53.6,Vimeo,721,55,In-App Purchases,2019
+P930,South Africa,Mobile,Simulation,26-35,102.85,115.7,Caffeine,675,92,In-App Purchases,2023
+P931,Argentina,PlayStation,Sports,46+,102.81,22.9,Facebook Gaming,272,33,Premium,2020
+P932,USA,Steam,Simulation,36-45,28.27,50.9,Twitch,440,4,Trial,2022
+P933,India,Mobile,Cooking,46+,146.62,60.8,Facebook Gaming,878,22,Free,2022
+P934,UK,PC,Horror,36-45,132.42,19.7,DLive,820,97,In-App Purchases,2021
+P935,Russia,Xbox,Sports,13-18,1.63,111.2,Nimo TV,324,57,In-App Purchases,2022
+P936,Australia,Nintendo Switch,Adventure,19-25,119.72,28.0,Mixer,534,17,Premium,2019
+P937,Egypt,Epic Games Store,Educational,19-25,67.38,51.6,Vimeo,41,44,In-App Purchases,2021
+P938,Europe,Epic Games Store,Educational,36-45,114.87,74.2,Trovo,930,92,In-App Purchases,2022
+P939,Indonesia,Xbox,Idle,26-35,61.93,59.7,Mixer,40,46,Free,2021
+P940,UK,PlayStation,Idle,36-45,117.2,12.9,Facebook Gaming,790,34,Premium,2023
+P941,Europe,PlayStation,Horror,13-18,43.45,110.4,Caffeine,92,7,Trial,2023
+P942,Italy,Laptop,MOBA,26-35,136.04,92.9,Trovo,168,99,In-App Purchases,2022
+P943,India,Mobile,Educational,13-18,51.4,110.8,Trovo,651,45,In-App Purchases,2020
+P944,Australia,Console,Fighting,19-25,133.5,99.0,DLive,304,1,Premium,2023
+P945,Nigeria,Nintendo Switch,Sports,13-18,58.85,39.2,YouTube Gaming,604,24,Premium,2023
+P946,Italy,Smartphone,Idle,46+,86.91,51.8,Facebook Gaming,167,12,Trial,2019
+P947,Europe,VR,Simulation,19-25,108.78,115.0,DLive,433,94,Trial,2021
+P948,Egypt,Nintendo Switch,Educational,26-35,38.85,43.6,Twitch,92,89,Premium,2022
+P949,Japan,Nintendo Switch,RPG,19-25,144.87,41.4,YouTube Gaming,504,76,Trial,2020
+P950,Russia,Mobile,Idle,46+,38.96,26.5,Vimeo,528,86,Premium,2020
+P951,China,Tablet,Fighting,19-25,116.08,108.1,YouTube Gaming,309,85,In-App Purchases,2023
+P952,Brazil,Mobile,MOBA,13-18,92.53,27.1,Nimo TV,329,3,Premium,2023
+P953,USA,PC,Cooking,19-25,148.07,87.8,YouTube Gaming,525,78,Trial,2021
+P954,Brazil,Laptop,Idle,13-18,67.62,62.9,Twitch,144,45,Premium,2020
+P955,Brazil,Nintendo Switch,Educational,26-35,74.57,35.5,Facebook Gaming,590,18,In-App Purchases,2021
+P956,Brazil,Laptop,Fighting,13-18,5.58,25.9,Vimeo,694,88,In-App Purchases,2019
+P957,Japan,Epic Games Store,Puzzle,19-25,109.68,59.5,Trovo,44,12,Trial,2020
+P958,South Korea,Mobile,Educational,26-35,147.19,33.3,Trovo,406,100,Trial,2022
+P959,Egypt,Steam,FPS,19-25,67.28,58.2,YouTube Gaming,786,86,Premium,2024
+P960,India,Nintendo Switch,RPG,46+,98.99,61.1,Caffeine,513,95,In-App Purchases,2020
+P961,Mexico,Nintendo Switch,Strategy,19-25,2.52,109.9,Trovo,237,8,Premium,2024
+P962,Indonesia,Tablet,Simulation,19-25,42.44,47.3,Nimo TV,441,45,Trial,2024
+P963,South Korea,Laptop,Strategy,19-25,10.71,74.5,Trovo,185,85,Free,2019
+P964,South Africa,PlayStation,FPS,26-35,2.49,99.1,Caffeine,981,76,In-App Purchases,2021
+P965,Germany,PC,Strategy,13-18,22.57,11.7,Mixer,256,16,Premium,2021
+P966,Australia,Laptop,Battle Royale,13-18,122.76,24.5,Twitch,473,6,In-App Purchases,2022
+P967,South Africa,Nintendo Switch,Strategy,19-25,121.48,65.0,Facebook Gaming,192,4,Premium,2021
+P968,Brazil,Smartphone,FPS,36-45,69.37,27.0,DLive,378,54,In-App Purchases,2024
+P969,UK,PC,Music,46+,98.01,11.3,Vimeo,907,73,Trial,2024
+P970,Indonesia,Nintendo Switch,FPS,26-35,71.03,19.9,DLive,522,64,In-App Purchases,2024
+P971,China,VR,RPG,19-25,60.67,51.7,Vimeo,758,31,Premium,2024
+P972,Japan,Mobile,Simulation,46+,37.39,80.4,YouTube Gaming,69,7,Trial,2024
+P973,Nigeria,Smartphone,Strategy,13-18,75.34,31.8,DLive,212,34,Free,2019
+P974,Mexico,Steam,Cooking,13-18,46.36,61.7,Mixer,555,76,Premium,2022
+P975,Indonesia,Epic Games Store,Simulation,13-18,34.69,77.7,Vimeo,626,53,In-App Purchases,2020
+P976,China,Steam,FPS,19-25,138.22,85.6,Trovo,426,29,In-App Purchases,2023
+P977,Italy,Steam,MOBA,26-35,29.1,45.2,Twitch,398,22,Trial,2024
+P978,Egypt,Epic Games Store,Cooking,26-35,39.09,115.7,YouTube Gaming,720,66,In-App Purchases,2024
+P979,South Korea,PlayStation,Idle,19-25,76.47,97.9,Nimo TV,870,6,In-App Purchases,2021
+P980,Nigeria,Epic Games Store,Adventure,26-35,18.69,81.7,Nimo TV,567,61,In-App Purchases,2019
+P981,Japan,PC,Battle Royale,26-35,144.11,65.9,Vimeo,725,29,Premium,2020
+P982,Germany,Xbox,Educational,26-35,75.64,89.3,Nimo TV,682,11,Premium,2020
+P983,Japan,Tablet,Idle,36-45,145.08,84.2,Trovo,99,18,Free,2024
+P984,Egypt,Mobile,Music,46+,117.57,86.3,Caffeine,12,69,In-App Purchases,2023
+P985,Russia,Xbox,Sports,46+,33.29,68.0,Vimeo,81,97,Premium,2021
+P986,Nigeria,Smartphone,Strategy,19-25,130.91,87.4,Trovo,319,2,Trial,2020
+P987,Japan,Console,Adventure,26-35,50.72,89.5,Twitch,380,72,Trial,2024
+P988,South Korea,PC,FPS,26-35,84.48,81.8,Vimeo,502,98,Premium,2020
+P989,Italy,Console,Puzzle,13-18,26.5,80.5,Mixer,404,48,Trial,2021
+P990,Egypt,VR,Horror,46+,50.88,97.6,Facebook Gaming,233,51,Premium,2022
+P991,India,Laptop,Cooking,26-35,126.69,86.7,Nimo TV,644,95,Premium,2023
+P992,Egypt,Console,RPG,36-45,138.39,60.9,DLive,303,21,In-App Purchases,2021
+P993,Brazil,Laptop,Simulation,19-25,144.69,82.0,Mixer,995,78,Premium,2019
+P994,Germany,Nintendo Switch,Cooking,19-25,61.32,115.3,Trovo,907,64,Free,2020
+P995,South Korea,PlayStation,Educational,26-35,35.76,70.7,YouTube Gaming,757,85,Free,2019
+P996,Egypt,Tablet,RPG,26-35,130.87,74.8,YouTube Gaming,147,15,Trial,2022
+P997,USA,Mobile,Sports,13-18,138.08,12.3,Vimeo,620,77,Premium,2023
+P998,Germany,PlayStation,Strategy,13-18,105.36,113.7,Vimeo,307,33,In-App Purchases,2022
+P999,Australia,Nintendo Switch,Music,26-35,45.59,10.8,Trovo,714,92,In-App Purchases,2023
+P1000,UK,Mobile,Fighting,19-25,121.86,100.0,DLive,812,7,Trial,2024
